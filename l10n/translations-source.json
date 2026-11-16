@@ -1,0 +1,1470 @@
+{
+  "strings": [
+    {
+      "key": "%@ ekle, %lld miligram",
+      "en": "Add %@, %lld milligrams"
+    },
+    {
+      "key": "%@ eklendi · %@",
+      "en": "%@ added · %@"
+    },
+    {
+      "key": "%@ üzerinde kafein aldığın günlerde gerginlik puanın ortalama %@ puan daha yüksekti.",
+      "en": "On days with more than %@ of caffeine, your tension score was %@ points higher on average."
+    },
+    {
+      "key": "%@ üzerinde kafein aldığın günlerin ertesi sabahı dinlenme nabzın ortalama %lld atım daha yüksekti.",
+      "en": "The morning after days with more than %@ of caffeine, your resting heart rate was %lld bpm higher on average."
+    },
+    {
+      "key": "%@ – %@",
+      "en": "%@ – %@"
+    },
+    {
+      "key": "%lld gecenin %lld tanesinde yatarken vücudunda %@'den fazla kafein vardı.",
+      "en": "On %2$lld of %1$lld nights you went to bed with more than %3$@ of caffeine in your body."
+    },
+    {
+      "key": "%lld gün kayıt",
+      "en": "%lld days logged"
+    },
+    {
+      "key": "%lld nefes egzersizinin ardından nabzın ortalama %lld atım yavaşladı.",
+      "en": "After %lld breathing sessions your heart rate slowed by %lld bpm on average."
+    },
+    {
+      "key": "%lld sa",
+      "en": "%lld h"
+    },
+    {
+      "key": "%lld · %lld kg",
+      "en": "%lld · %lld kg"
+    },
+    {
+      "key": "%lld, %@",
+      "en": "%lld, %@"
+    },
+    {
+      "key": "%lld:%@",
+      "en": "%lld:%@"
+    },
+    {
+      "key": "1 bardak (150 ml)",
+      "en": "1 cup (150 ml)"
+    },
+    {
+      "key": "1 fincan",
+      "en": "1 small cup"
+    },
+    {
+      "key": "1 ince belli bardak",
+      "en": "1 tulip glass"
+    },
+    {
+      "key": "1 kapsül, 110 ml",
+      "en": "1 capsule, 110 ml"
+    },
+    {
+      "key": "1 kapsül, 40 ml",
+      "en": "1 capsule, 40 ml"
+    },
+    {
+      "key": "1 kupa",
+      "en": "1 mug"
+    },
+    {
+      "key": "1 kupa (240 ml)",
+      "en": "1 mug (240 ml)"
+    },
+    {
+      "key": "1 küçük fincan (50 ml)",
+      "en": "1 small cup (50 ml)"
+    },
+    {
+      "key": "1 küçük fincan (finjan)",
+      "en": "1 small cup (finjan)"
+    },
+    {
+      "key": "1 tablet",
+      "en": "1 tablet"
+    },
+    {
+      "key": "1 · Çok sakin",
+      "en": "1 · Very calm"
+    },
+    {
+      "key": "1 çay kaşığı (2 g)",
+      "en": "1 teaspoon (2 g)"
+    },
+    {
+      "key": "1/3 · Ölçüm",
+      "en": "1/3 · Measure"
+    },
+    {
+      "key": "18 yaş altında kilo başına 3 mg (EFSA).",
+      "en": "Under 18: 3 mg per kg of body weight (EFSA)."
+    },
+    {
+      "key": "2 dakikalık nefes egzersizini başlat",
+      "en": "Start the 2-minute breathing exercise"
+    },
+    {
+      "key": "2/3 · Nefes",
+      "en": "2/3 · Breathe"
+    },
+    {
+      "key": "250 ml kutu",
+      "en": "250 ml can"
+    },
+    {
+      "key": "3/3 · Tekrar ölçüm",
+      "en": "3/3 · Measure again"
+    },
+    {
+      "key": "330 ml",
+      "en": "330 ml"
+    },
+    {
+      "key": "40 g",
+      "en": "40 g"
+    },
+    {
+      "key": "5 · Çok gergin",
+      "en": "5 · Very tense"
+    },
+    {
+      "key": "500 ml kutu",
+      "en": "500 ml can"
+    },
+    {
+      "key": "60 saniyelik dinlenme nabzı ve kısa bir uyku kaydı. Kişisel normalini bu ölçümler oluşturur.",
+      "en": "A 60-second resting heart rate and a short sleep log. These build your personal baseline."
+    },
+    {
+      "key": "Acil yardım: %@",
+      "en": "Emergency: %@"
+    },
+    {
+      "key": "Akıllı saat gerekmez, hesap açman gerekmez. Her şey yalnızca bu telefonda saklanır. Caffein bir sağlıklı yaşam uygulamasıdır, tıbbi cihaz değildir.",
+      "en": "No smartwatch, no account. Everything stays on this phone. Caffein is a wellness app, not a medical device."
+    },
+    {
+      "key": "Akşam",
+      "en": "Evening"
+    },
+    {
+      "key": "Americano",
+      "en": "Americano"
+    },
+    {
+      "key": "Arap kahvesi (kahve arabi)",
+      "en": "Arabic coffee (qahwa)"
+    },
+    {
+      "key": "Arka kamerayı ve flaşı parmak ucunla hafifçe ört.",
+      "en": "Gently cover the back camera and flash with your fingertip."
+    },
+    {
+      "key": "Atla",
+      "en": "Skip"
+    },
+    {
+      "key": "Ayarlar",
+      "en": "Settings"
+    },
+    {
+      "key": "Ayarları aç",
+      "en": "Open Settings"
+    },
+    {
+      "key": "Aç karnına içtiysen hafif bir şeyler ye.",
+      "en": "If you drank on an empty stomach, have a light snack."
+    },
+    {
+      "key": "BPM",
+      "en": "BPM"
+    },
+    {
+      "key": "Bayılma, bayılacak gibi olma ya da şiddetli baş dönmesi",
+      "en": "Fainting, feeling faint or severe dizziness"
+    },
+    {
+      "key": "Başla",
+      "en": "Start"
+    },
+    {
+      "key": "Beyaz çay",
+      "en": "White tea"
+    },
+    {
+      "key": "Bildirim izni verilmedi. Ayarlar → Bildirimler → Caffein bölümünden açabilirsin.",
+      "en": "Notifications are not allowed. You can turn them on in Settings → Notifications → Caffein."
+    },
+    {
+      "key": "Bilmekte fayda var",
+      "en": "Good to know"
+    },
+    {
+      "key": "Bir iki bardak su iç.",
+      "en": "Drink a glass or two of water."
+    },
+    {
+      "key": "Bitter çikolata",
+      "en": "Dark chocolate"
+    },
+    {
+      "key": "Bitti",
+      "en": "Done"
+    },
+    {
+      "key": "Bu cihazda arka kamera bulunamadı.",
+      "en": "No back camera was found on this device."
+    },
+    {
+      "key": "Bu gece %@ uyudun.",
+      "en": "You slept %@ last night."
+    },
+    {
+      "key": "Bu seçimle bugünkü son kahve saatin",
+      "en": "Your last coffee today with this choice"
+    },
+    {
+      "key": "Bugün",
+      "en": "Today"
+    },
+    {
+      "key": "Bugün %@ / %@ günlük sınır",
+      "en": "Today %@ / %@ daily limit"
+    },
+    {
+      "key": "Bugün için kafeini burada bırak. Kola, enerji içeceği ve bitter çikolata da kafein içerir.",
+      "en": "Stop caffeine for today. Cola, energy drinks and dark chocolate contain caffeine too."
+    },
+    {
+      "key": "Bugün için kafeini burada bırakman iyi olur. Çarpıntı, titreme ya da huzursuzluk hissediyorsan rehbere bak.",
+      "en": "It's best to stop caffeine for today. If you feel palpitations, jitters or restlessness, check the guide."
+    },
+    {
+      "key": "Bugün için kalan: %@. Genelde içtiğin bir içecek (%@) sınırı aşabilir.",
+      "en": "Left for today: %@. Your usual drink (%@) could take you over."
+    },
+    {
+      "key": "Bugün ne kadar gergindin?",
+      "en": "How tense were you today?"
+    },
+    {
+      "key": "Bugün toplam %@; yaşına ve kilona göre günlük sınırın %@.",
+      "en": "%@ in total today; your daily limit for your age and weight is %@."
+    },
+    {
+      "key": "Bugünkü kafein için ek",
+      "en": "Extra for today's caffeine"
+    },
+    {
+      "key": "Bugünkü son kahve saatin: **%@**. Sonrası uykunu etkileyebilir.",
+      "en": "Your last coffee today: **%@**. Later may affect your sleep."
+    },
+    {
+      "key": "Bugünün son kahve saati (**%@**) geçti. Canın çekerse kafeinsiz bir içecek seç.",
+      "en": "Today's last-coffee time (**%@**) has passed. If you want something, pick a caffeine-free drink."
+    },
+    {
+      "key": "Bunlar son 4 haftadaki kendi kayıtlarındaki eğilimler; neden-sonuç ilişkisi kanıtlamaz.",
+      "en": "These are trends in your own records from the last 4 weeks; they don't prove cause and effect."
+    },
+    {
+      "key": "Bunu ve uygulama dilini sonra Ayarlar'dan değiştirebilirsin.",
+      "en": "You can change this and the app language later in Settings."
+    },
+    {
+      "key": "Burnundan 4 saniye al, ağzından 6 saniyede ver. Omuzlarını bırak.",
+      "en": "Breathe in through your nose for 4 seconds, out through your mouth for 6. Let your shoulders drop."
+    },
+    {
+      "key": "Buzlu kahve",
+      "en": "Iced coffee"
+    },
+    {
+      "key": "Cafezinho",
+      "en": "Cafezinho"
+    },
+    {
+      "key": "Cappuccino",
+      "en": "Cappuccino"
+    },
+    {
+      "key": "Chai latte",
+      "en": "Chai latte"
+    },
+    {
+      "key": "Cold brew",
+      "en": "Cold brew"
+    },
+    {
+      "key": "Cortado / Macchiato",
+      "en": "Cortado / Macchiato"
+    },
+    {
+      "key": "Daha çok kafein aldığın günlerde gerginlik puanın daha yüksek değildi.",
+      "en": "On days with more caffeine your tension score was not higher."
+    },
+    {
+      "key": "Dakikada %lld atım",
+      "en": "%lld beats per minute"
+    },
+    {
+      "key": "Demleme çay",
+      "en": "Turkish tea"
+    },
+    {
+      "key": "Demleme çay (kupa)",
+      "en": "Turkish tea (mug)"
+    },
+    {
+      "key": "Destek",
+      "en": "Support"
+    },
+    {
+      "key": "Devam",
+      "en": "Continue"
+    },
+    {
+      "key": "Değerlendiriliyor",
+      "en": "Evaluating"
+    },
+    {
+      "key": "Değerler bir porsiyon için yaklaşıktır; demleme süresi, fincan boyu ve markaya göre değişir.",
+      "en": "Values are approximate per serving and vary with brewing time, cup size and brand."
+    },
+    {
+      "key": "Dibek kahvesi",
+      "en": "Dibek coffee"
+    },
+    {
+      "key": "Dil",
+      "en": "Language"
+    },
+    {
+      "key": "Dinlenme nabzın %lld, normalinden %lld atım düşük.",
+      "en": "Your resting heart rate is %lld, %lld bpm below your normal."
+    },
+    {
+      "key": "Dinlenme nabzın %lld, normalinden %lld atım yüksek. Uykusuzluk, stres, hastalık ya da dünkü geç kafein bunu etkileyebilir.",
+      "en": "Your resting heart rate is %lld, %lld bpm above your normal. Poor sleep, stress, illness or late caffeine yesterday can do this."
+    },
+    {
+      "key": "Dinlenme nabzın %lld, normalinle (%lld) aynı düzeyde.",
+      "en": "Your resting heart rate is %lld, in line with your normal (%lld)."
+    },
+    {
+      "key": "Dinlenme nabzın %lld. Kişisel normalin %lld sabah ölçümüyle oluşur; şu an %lld ölçümün var.",
+      "en": "Your resting heart rate is %lld. Your personal normal forms after %lld morning measurements; you have %lld so far."
+    },
+    {
+      "key": "Dinlenmene rağmen dakikalarca geçmeyen çok hızlı ya da düzensiz kalp atışı",
+      "en": "A very fast or irregular heartbeat that doesn't settle after minutes of rest"
+    },
+    {
+      "key": "Diğer",
+      "en": "Other"
+    },
+    {
+      "key": "Diğer içecek",
+      "en": "Other drink"
+    },
+    {
+      "key": "Duraklatıldı",
+      "en": "Paused"
+    },
+    {
+      "key": "Ekle",
+      "en": "Add"
+    },
+    {
+      "key": "En az bir haftalık kayıttan sonra Caffein kendi verilerini karşılaştırır: örneğin yatarken kafein kalan gecelerde uyku puanın düşüyor mu? Bunlar senin verindeki eğilimlerdir, kesin neden-sonuç ilişkisi değildir.",
+      "en": "After at least a week of records, Caffein compares your own data: for example, is your sleep worse on nights you go to bed with caffeine still in your body? These are trends in your data, not proof of cause and effect."
+    },
+    {
+      "key": "Enerji içeceği",
+      "en": "Energy drink"
+    },
+    {
+      "key": "Enerji içeceği (büyük)",
+      "en": "Energy drink (large)"
+    },
+    {
+      "key": "Enerji ve gazlı içecekler",
+      "en": "Energy and soft drinks"
+    },
+    {
+      "key": "Espresso",
+      "en": "Espresso"
+    },
+    {
+      "key": "Filtre kahve",
+      "en": "Filter coffee"
+    },
+    {
+      "key": "Flat white",
+      "en": "Flat white"
+    },
+    {
+      "key": "French press",
+      "en": "French press"
+    },
+    {
+      "key": "Genelde kaçta yatarsın?",
+      "en": "When do you usually go to bed?"
+    },
+    {
+      "key": "Genelde yatış saatin",
+      "en": "Usual bedtime"
+    },
+    {
+      "key": "Gergin",
+      "en": "Tense"
+    },
+    {
+      "key": "Gerginim",
+      "en": "I feel tense"
+    },
+    {
+      "key": "Gerginlik",
+      "en": "Tension"
+    },
+    {
+      "key": "Gerginlik göstergesi",
+      "en": "Tension indicator"
+    },
+    {
+      "key": "Geri al",
+      "en": "Undo"
+    },
+    {
+      "key": "Geç kafein uykunu etkiliyor olabilir",
+      "en": "Late caffeine may be affecting your sleep"
+    },
+    {
+      "key": "Geç kafein uykunu kısaltıyor olabilir",
+      "en": "Late caffeine may be shortening your sleep"
+    },
+    {
+      "key": "Girilmedi",
+      "en": "Not set"
+    },
+    {
+      "key": "Gizlilik politikası",
+      "en": "Privacy policy"
+    },
+    {
+      "key": "Göğüs ağrısı, baskı ya da sıkışma",
+      "en": "Chest pain, pressure or tightness"
+    },
+    {
+      "key": "Gün",
+      "en": "Day"
+    },
+    {
+      "key": "Gün boyu kafein eğrisi",
+      "en": "Caffeine curve through the day"
+    },
+    {
+      "key": "Günaydın",
+      "en": "Good morning"
+    },
+    {
+      "key": "Günde birkaç dokunuş",
+      "en": "A few taps a day"
+    },
+    {
+      "key": "Günlük ihtiyaç (70 kg varsayıldı)",
+      "en": "Daily need (assuming 70 kg)"
+    },
+    {
+      "key": "Günlük kafein",
+      "en": "Daily caffeine"
+    },
+    {
+      "key": "Günlük kafein sınırın",
+      "en": "Your daily caffeine limit"
+    },
+    {
+      "key": "Günlük kafein sınırın yaşına ve kilona göre hesaplanır. Bu bilgiler yalnızca bu telefonda kalır.",
+      "en": "Your daily caffeine limit is based on your age and weight. This information stays on this phone."
+    },
+    {
+      "key": "Günlük sınır",
+      "en": "Daily limit"
+    },
+    {
+      "key": "Günlük sınırına yaklaşıyorsun: %@ / %@",
+      "en": "Getting close to your daily limit: %@ / %@"
+    },
+    {
+      "key": "Günlük sınırını geçtin: %@ / %@",
+      "en": "You passed your daily limit: %@ / %@"
+    },
+    {
+      "key": "Güvenilir bir ölçüm alınamadı",
+      "en": "Couldn't get a reliable reading"
+    },
+    {
+      "key": "Haftalık özet",
+      "en": "Weekly summary"
+    },
+    {
+      "key": "Haftalık özetin hazır",
+      "en": "Your weekly summary is ready"
+    },
+    {
+      "key": "Haftam",
+      "en": "My week"
+    },
+    {
+      "key": "Hamilelik ve emzirme döneminde önerilen en fazla 200 mg.",
+      "en": "At most 200 mg, as recommended during pregnancy and breastfeeding."
+    },
+    {
+      "key": "Hamileyim ya da emziriyorum",
+      "en": "I'm pregnant or breastfeeding"
+    },
+    {
+      "key": "Hatırlatıcılar",
+      "en": "Reminders"
+    },
+    {
+      "key": "Hazır kahve",
+      "en": "Instant coffee"
+    },
+    {
+      "key": "Hazırlanıyor",
+      "en": "Getting ready"
+    },
+    {
+      "key": "Hemen tıbbi yardım al",
+      "en": "Get medical help now"
+    },
+    {
+      "key": "Her atımda titreşim",
+      "en": "Vibrate on every beat"
+    },
+    {
+      "key": "Her kalp atışında parmak ucuna biraz daha kan dolar ve bu kan flaşın ışığını biraz daha emer. Kamera bu küçük renk değişimini saniyede 30 kez okur. Sinyal net değilse Caffein sayı göstermez ve tekrar ölçmeni ister.",
+      "en": "With every heartbeat a little more blood fills your fingertip and absorbs a little more of the flash's light. The camera reads this tiny colour change 30 times a second. If the signal isn't clear, Caffein shows no number and asks you to measure again."
+    },
+    {
+      "key": "Her şey yalnızca bu telefonda saklanır. Kamera görüntüsü kaydedilmez; her kareden yalnızca ortalama renk değeri alınır.",
+      "en": "Everything is stored only on this phone. No camera image is saved; only the average colour of each frame is used."
+    },
+    {
+      "key": "Kafein",
+      "en": "Caffeine"
+    },
+    {
+      "key": "Kafein (mg)",
+      "en": "Caffeine (mg)"
+    },
+    {
+      "key": "Kafein eğrisi",
+      "en": "Caffeine curve"
+    },
+    {
+      "key": "Kafein eğrisi ve son kahve saati bu saate göre hesaplanır.",
+      "en": "The caffeine curve and last-coffee time are based on this."
+    },
+    {
+      "key": "Kafein gerginliğini artırmıyor gibi görünüyor",
+      "en": "Caffeine doesn't seem to raise your tension"
+    },
+    {
+      "key": "Kafein hassasiyeti kişiden kişiye çok değişir. Bazı ilaçlar, hamilelik, doğum kontrol hapları ve karaciğer sağlığı kafeinin vücuttan atılmasını yavaşlatır.",
+      "en": "Caffeine sensitivity varies a lot between people. Some medicines, pregnancy, birth control pills and liver health slow down how fast caffeine leaves the body."
+    },
+    {
+      "key": "Kafein saatlerin dengeli",
+      "en": "Your caffeine timing is balanced"
+    },
+    {
+      "key": "Kafein sende ne kadar sürüyor?",
+      "en": "How long does caffeine last for you?"
+    },
+    {
+      "key": "Kafein tableti",
+      "en": "Caffeine tablet"
+    },
+    {
+      "key": "Kafein, uyku ve gerginlik haftana bir göz at.",
+      "en": "Take a look at your week of caffeine, sleep and tension."
+    },
+    {
+      "key": "Kafeinin vücuttan atılma hızı kişiden kişiye değişir: genetik, hamilelik, doğum kontrol hapı ve sigara bunu etkiler. Öğleden sonra içtiğin kahve gece uykunu bozuyorsa \"Uzun\"u seç. Bu seçim kafein eğrisini, yatarken kalan kafeini ve son kahve saatini değiştirir.",
+      "en": "How fast caffeine leaves the body varies between people: genetics, pregnancy, birth control pills and smoking all play a part. If an afternoon coffee disturbs your sleep, choose \"Long\". This choice changes the caffeine curve, the caffeine left at bedtime and your last-coffee time."
+    },
+    {
+      "key": "Kafeinli günlerde daha gergin hissediyorsun",
+      "en": "You feel more tense on caffeine-heavy days"
+    },
+    {
+      "key": "Kafeinsiz kahve",
+      "en": "Decaf coffee"
+    },
+    {
+      "key": "Kahveden önce 60 saniyelik sabah ölçümünü yap.",
+      "en": "Take your 60-second morning measurement before coffee."
+    },
+    {
+      "key": "Kahveler",
+      "en": "Coffee"
+    },
+    {
+      "key": "Kahveni bırakma, tanı",
+      "en": "Don't quit coffee, understand it"
+    },
+    {
+      "key": "Kalp rahatsızlığın varsa ya da ilaç kullanıyorsan doktoruna danış.",
+      "en": "If you have a heart condition or take medication, ask your doctor."
+    },
+    {
+      "key": "Kamera başlatılamadı.",
+      "en": "The camera couldn't start."
+    },
+    {
+      "key": "Kamera izni gerekli",
+      "en": "Camera access needed"
+    },
+    {
+      "key": "Kamera izni verilmedi.",
+      "en": "Camera access was not allowed."
+    },
+    {
+      "key": "Kapat",
+      "en": "Close"
+    },
+    {
+      "key": "Kapsül kahve (espresso)",
+      "en": "Capsule coffee (espresso)"
+    },
+    {
+      "key": "Kapsül kahve (lungo)",
+      "en": "Capsule coffee (lungo)"
+    },
+    {
+      "key": "Kaydet",
+      "en": "Save"
+    },
+    {
+      "key": "Kayıtlı gecelerin hiçbirinde yatarken vücudunda belirgin kafein kalmadı.",
+      "en": "On none of the logged nights did you go to bed with noticeable caffeine in your body."
+    },
+    {
+      "key": "Kaçta uyandın?",
+      "en": "When did you wake up?"
+    },
+    {
+      "key": "Kaçta yattın?",
+      "en": "When did you go to bed?"
+    },
+    {
+      "key": "Kilo",
+      "en": "Weight"
+    },
+    {
+      "key": "Kilona göre günlük ihtiyaç",
+      "en": "Daily need for your weight"
+    },
+    {
+      "key": "Kişisel nabız normalin: %lld/%lld sabah ölçümü",
+      "en": "Your personal heart-rate normal: %lld/%lld morning measurements"
+    },
+    {
+      "key": "Kişisel çıkarımlar",
+      "en": "Personal insights"
+    },
+    {
+      "key": "Kişisel çıkarımlar için en az %lld günlük kayıt gerekiyor. Şu an %lld gün var.",
+      "en": "Personal insights need at least %lld days of records. You have %lld so far."
+    },
+    {
+      "key": "Kola",
+      "en": "Cola"
+    },
+    {
+      "key": "Kola (şekersiz)",
+      "en": "Cola (zero sugar)"
+    },
+    {
+      "key": "Kötü",
+      "en": "Poor"
+    },
+    {
+      "key": "Kıpırdamadan bekle",
+      "en": "Hold still"
+    },
+    {
+      "key": "Kısa (yarısı ~3,5 saatte atılır)",
+      "en": "Short (half gone in ~3.5 hours)"
+    },
+    {
+      "key": "Latte",
+      "en": "Latte"
+    },
+    {
+      "key": "Listede yok mu?",
+      "en": "Not on the list?"
+    },
+    {
+      "key": "Masala chai",
+      "en": "Masala chai"
+    },
+    {
+      "key": "Matcha",
+      "en": "Matcha"
+    },
+    {
+      "key": "Matcha latte",
+      "en": "Matcha latte"
+    },
+    {
+      "key": "Matcha ve mate",
+      "en": "Matcha and mate"
+    },
+    {
+      "key": "Mate",
+      "en": "Mate"
+    },
+    {
+      "key": "Mocha",
+      "en": "Mocha"
+    },
+    {
+      "key": "Moka pot",
+      "en": "Moka pot"
+    },
+    {
+      "key": "Nabzı da ölç",
+      "en": "Measure heart rate too"
+    },
+    {
+      "key": "Nabzın %lld BPM olarak kaydedilecek.",
+      "en": "Your heart rate will be saved as %lld BPM."
+    },
+    {
+      "key": "Nabzın %lld atım yavaşladı. Yavaş nefes, sinir sistemini sakinleştirmenin en hızlı yollarından biri.",
+      "en": "Your heart rate slowed by %lld bpm. Slow breathing is one of the quickest ways to calm your nervous system."
+    },
+    {
+      "key": "Nabzın %lld atım yükseldi. Bazen ölçüm anı da heyecan yaratır; birkaç dakika sonra tekrar deneyebilirsin.",
+      "en": "Your heart rate rose by %lld bpm. Measuring itself can be exciting; you can try again in a few minutes."
+    },
+    {
+      "key": "Nabzın hemen hemen aynı kaldı. Hissettiğin rahatlama da önemli; sayı her zaman değişmeyebilir.",
+      "en": "Your heart rate stayed about the same. How relaxed you feel matters too; the number doesn't always change."
+    },
+    {
+      "key": "Nabzını parmak ucundaki renk değişiminden okuyoruz. Görüntü kaydedilmez.",
+      "en": "We read your heart rate from the colour change in your fingertip. No image is saved."
+    },
+    {
+      "key": "Nabzını ölç, 2 dakika birlikte nefes alalım, sonra tekrar ölç.",
+      "en": "Measure your heart rate, breathe with us for 2 minutes, then measure again."
+    },
+    {
+      "key": "Nabız ölçümü",
+      "en": "Heart-rate measurement"
+    },
+    {
+      "key": "Nasıl uyudun?",
+      "en": "How did you sleep?"
+    },
+    {
+      "key": "Nasıl çalışır?",
+      "en": "How it works"
+    },
+    {
+      "key": "Ne içtin?",
+      "en": "What did you drink?"
+    },
+    {
+      "key": "Ne kadar kafeinin sana uygun olduğu yaşına ve kilona göre değişir.",
+      "en": "How much caffeine suits you depends on your age and weight."
+    },
+    {
+      "key": "Nefes al",
+      "en": "Breathe in"
+    },
+    {
+      "key": "Nefes darlığı",
+      "en": "Shortness of breath"
+    },
+    {
+      "key": "Nefes egzersizi nabzını pek değiştirmedi",
+      "en": "Breathing didn't change your heart rate much"
+    },
+    {
+      "key": "Nefes egzersizi sana iyi geliyor",
+      "en": "Breathing exercises work for you"
+    },
+    {
+      "key": "Oolong çayı",
+      "en": "Oolong tea"
+    },
+    {
+      "key": "Orta",
+      "en": "Moderate"
+    },
+    {
+      "key": "Ortalama",
+      "en": "Average"
+    },
+    {
+      "key": "Ortalama (~5 saat)",
+      "en": "Average (~5 hours)"
+    },
+    {
+      "key": "Otur ve yavaş nefes al: 4 saniye al, 6 saniyede ver.",
+      "en": "Sit down and breathe slowly: 4 seconds in, 6 seconds out."
+    },
+    {
+      "key": "Parmağını arka kameraya koy",
+      "en": "Place your finger on the back camera"
+    },
+    {
+      "key": "Pazar akşamı haftalık özet",
+      "en": "Weekly summary on Sunday evening"
+    },
+    {
+      "key": "Pil tasarrufu için durdu. Devam etmek için dokun.",
+      "en": "Paused to save battery. Tap to continue."
+    },
+    {
+      "key": "Profil",
+      "en": "Profile"
+    },
+    {
+      "key": "Saat",
+      "en": "Time"
+    },
+    {
+      "key": "Sabah",
+      "en": "Morning"
+    },
+    {
+      "key": "Sabah 60 saniyelik nabız ve iki soru. Gün içinde içtiğin her şeyi tek dokunuşla ekle. Akşam günün gerginliğine puan ver.",
+      "en": "In the morning, a 60-second heart rate and a few questions. During the day, add every drink with one tap. In the evening, rate how tense the day was."
+    },
+    {
+      "key": "Sabah dinlenme nabzın birkaç günde kişisel bir normal oluşturur. Bir sabah nabzın bu normalden belirgin şekilde yüksekse, bu uykusuzluk, stres, hastalık ya da geç kafeinin işareti olabilir. Caffein bunu akşam verdiğin gerginlik puanıyla birleştirir.",
+      "en": "Within a few days your morning resting heart rate forms a personal normal. If one morning it is clearly above that normal, it can be a sign of poor sleep, stress, illness or late caffeine. Caffein combines this with your evening tension rating."
+    },
+    {
+      "key": "Sabah hatırlatıcısı",
+      "en": "Morning reminder"
+    },
+    {
+      "key": "Sabah kaydın tamam",
+      "en": "Morning check-in done"
+    },
+    {
+      "key": "Sabah nabzın normalinde",
+      "en": "Morning heart rate is normal"
+    },
+    {
+      "key": "Sabah nabzın normalinden %lld düşük",
+      "en": "Morning heart rate %lld below normal"
+    },
+    {
+      "key": "Sabah nabzın normalinden %lld yüksek",
+      "en": "Morning heart rate %lld above normal"
+    },
+    {
+      "key": "Sabah nabzını Apple Sağlık'a kaydet",
+      "en": "Save morning heart rate to Apple Health"
+    },
+    {
+      "key": "Sabah ölçümü ve akşam puanıyla burada günlük gerginlik göstergen oluşacak.",
+      "en": "With morning measurements and evening ratings, your daily tension indicator will appear here."
+    },
+    {
+      "key": "Sabah ölçümünü yap",
+      "en": "Do the morning check-in"
+    },
+    {
+      "key": "Sadece uyku sorularını yanıtla",
+      "en": "Only answer the sleep questions"
+    },
+    {
+      "key": "Sakin",
+      "en": "Calm"
+    },
+    {
+      "key": "Sakin, kısa bir yürüyüş titremeyi azaltabilir.",
+      "en": "A short, easy walk can ease the jitters."
+    },
+    {
+      "key": "Sana göre günlük kafein sınırı: %@",
+      "en": "Your daily caffeine limit: %@"
+    },
+    {
+      "key": "Sana özel çıkarımlar",
+      "en": "Insights for you"
+    },
+    {
+      "key": "Sağlık izni verilmedi. Ayarlar → Sağlık → Veri Erişimi bölümünden açabilirsin.",
+      "en": "Health access was not allowed. You can turn it on in Settings → Health → Data Access."
+    },
+    {
+      "key": "Sencha",
+      "en": "Sencha"
+    },
+    {
+      "key": "Seni tanıyalım",
+      "en": "About you"
+    },
+    {
+      "key": "Sil",
+      "en": "Delete"
+    },
+    {
+      "key": "Silmek için kayda basılı tut.",
+      "en": "Touch and hold an entry to delete it."
+    },
+    {
+      "key": "Sinyal aranıyor",
+      "en": "Looking for a signal"
+    },
+    {
+      "key": "Sinyal net değildi, tekrar ölçüyoruz. Parmağını bastırmadan, sabit tut.",
+      "en": "The signal wasn't clear, measuring again. Keep your finger still without pressing."
+    },
+    {
+      "key": "Sinyal tam net değildi; sonuç birkaç atım sapabilir.",
+      "en": "The signal wasn't perfectly clear; the result may be off by a few beats."
+    },
+    {
+      "key": "Sinyal zayıf olduğu için sayı göstermiyoruz. Elini ısıtıp, parmağını bastırmadan tekrar dene.",
+      "en": "The signal was too weak to show a number. Warm your hand and try again without pressing."
+    },
+    {
+      "key": "Siyah çay (poşet)",
+      "en": "Black tea (bag)"
+    },
+    {
+      "key": "Son 7 gün",
+      "en": "Last 7 days"
+    },
+    {
+      "key": "Son kahve saati",
+      "en": "Last-coffee time"
+    },
+    {
+      "key": "Son kahve saatini buna göre hesaplıyoruz.",
+      "en": "We work out your last-coffee time from this."
+    },
+    {
+      "key": "Son kahveni biraz öne almayı dene",
+      "en": "Try having your last coffee a bit earlier"
+    },
+    {
+      "key": "Soğuk çay",
+      "en": "Iced tea"
+    },
+    {
+      "key": "Su",
+      "en": "Water"
+    },
+    {
+      "key": "Su kafeini vücudundan daha hızlı atmaz; kafeini karaciğer kendi hızında parçalar. Ek su, kafeinin hafif idrar söktürücü etkisini dengeler.",
+      "en": "Water doesn't clear caffeine faster; your liver breaks it down at its own pace. The extra water offsets caffeine's mild diuretic effect."
+    },
+    {
+      "key": "Sürüm",
+      "en": "Version"
+    },
+    {
+      "key": "Sınır",
+      "en": "Limit"
+    },
+    {
+      "key": "Sınır saati",
+      "en": "Boundary time"
+    },
+    {
+      "key": "Sınırlar",
+      "en": "Limitations"
+    },
+    {
+      "key": "Sınırın yaşına ve kilona göre hesaplanır (EFSA). Yetişkinlerde kilo başına yaklaşık 5,7 mg, en fazla 400 mg; 70 kg'lık bir yetişkin için bu yaklaşık 4 kupa filtre kahvedir. 18 yaş altında kilo başına 3 mg. Hamilelik ve emzirmede en fazla 200 mg. Sınıra yaklaştığında ve geçtiğinde Bugün ekranında grafiğin altında uyarı görürsün. Bu bir hedef değil, bir üst sınırdır.",
+      "en": "Your limit is based on your age and weight (EFSA). For adults about 5.7 mg per kg, at most 400 mg; for a 70 kg adult that's about 4 mugs of filter coffee. Under 18: 3 mg per kg. During pregnancy and breastfeeding: at most 200 mg. When you get close to it or pass it, you'll see a warning under the chart on the Today screen. It's an upper limit, not a target."
+    },
+    {
+      "key": "Tahminen **%@** civarında %lld mg'nin altına iner. Etkiler genelde seviye düştükçe azalır.",
+      "en": "It should drop below %2$lld mg around **%1$@**. Effects usually ease as the level falls."
+    },
+    {
+      "key": "Tekrar dene",
+      "en": "Try again"
+    },
+    {
+      "key": "Tekrar ölç",
+      "en": "Measure again"
+    },
+    {
+      "key": "Telefonu sabit tut",
+      "en": "Hold the phone still"
+    },
+    {
+      "key": "Telefonun dili",
+      "en": "Phone language"
+    },
+    {
+      "key": "Tüm kayıtların yalnızca bu telefonda saklanır. Hesap yok, sunucu yok, reklam yok.",
+      "en": "All your records stay on this phone. No account, no server, no ads."
+    },
+    {
+      "key": "Tüm veriler silinsin mi?",
+      "en": "Delete all data?"
+    },
+    {
+      "key": "Tüm verileri sil",
+      "en": "Delete all data"
+    },
+    {
+      "key": "Türk kahvesi",
+      "en": "Turkish coffee"
+    },
+    {
+      "key": "Uygulama hemen değişir. İzin pencereleri ve bildirimler uygulama yeniden açılınca değişir.",
+      "en": "The app changes right away. Permission prompts and notifications change after the app is reopened."
+    },
+    {
+      "key": "Uyku",
+      "en": "Sleep"
+    },
+    {
+      "key": "Uyku eşiği",
+      "en": "Sleep threshold"
+    },
+    {
+      "key": "Uyku saatin",
+      "en": "Your bedtime"
+    },
+    {
+      "key": "Uyku süresi",
+      "en": "Sleep duration"
+    },
+    {
+      "key": "Uyku ve yatarkenki kafein",
+      "en": "Sleep and bedtime caffeine"
+    },
+    {
+      "key": "Uykun geç kafeine dayanıklı görünüyor",
+      "en": "Your sleep seems resilient to late caffeine"
+    },
+    {
+      "key": "Uzun (~7 saat)",
+      "en": "Long (~7 hours)"
+    },
+    {
+      "key": "Vazgeç",
+      "en": "Cancel"
+    },
+    {
+      "key": "Verilerin",
+      "en": "Your data"
+    },
+    {
+      "key": "Verin sende kalır",
+      "en": "Your data stays with you"
+    },
+    {
+      "key": "Caffein bir sağlıklı yaşam uygulamasıdır; tıbbi cihaz değildir ve teşhis ya da tedavi amacıyla kullanılmamalıdır.",
+      "en": "Caffein is a wellness app; it is not a medical device and must not be used for diagnosis or treatment."
+    },
+    {
+      "key": "Caffein tıbbi bir cihaz değildir. Ritim bozukluğu gibi durumları tespit etmez. Sağlığınla ilgili bir endişen varsa doktoruna danış.",
+      "en": "Caffein is not a medical device. It does not detect conditions such as arrhythmia. If you have a health concern, talk to your doctor."
+    },
+    {
+      "key": "Caffein tıbbi bir cihaz değildir; ritim bozukluğunu tespit edemez.",
+      "en": "Caffein is not a medical device; it cannot detect arrhythmia."
+    },
+    {
+      "key": "Caffein, kafeinin uykuna ve gerginliğine sende nasıl etki ettiğini gösterir. Amaç kafeini yasaklamak değil, sana iyi gelen dengeyi bulmak.",
+      "en": "Caffein shows how caffeine affects your sleep and tension. The goal isn't to ban caffeine but to find the balance that works for you."
+    },
+    {
+      "key": "Vücudunda şu an yaklaşık %@ kafein var. Bugün için bir sonraki kahveyi atlamak gerginliğine iyi gelebilir.",
+      "en": "There is about %@ of caffeine in your body right now. Skipping the next coffee today may ease your tension."
+    },
+    {
+      "key": "Vücudunda şu an yüksek miktarda kafein var",
+      "en": "There's a lot of caffeine in your body right now"
+    },
+    {
+      "key": "Vücudundaki kafein",
+      "en": "Caffeine in your body"
+    },
+    {
+      "key": "Yaklaşık %lld sn kaldı",
+      "en": "About %lld s left"
+    },
+    {
+      "key": "Yataktan kalkmadan ya da kalktıktan hemen sonra, oturarak ölç. Kahveden önce ölçmek kişisel normalini daha doğru yapar.",
+      "en": "Measure before getting up or right after, sitting down. Measuring before coffee makes your personal normal more accurate."
+    },
+    {
+      "key": "Yatarken az kafein",
+      "en": "Little caffeine at bedtime"
+    },
+    {
+      "key": "Yatarken kafein vardı",
+      "en": "Caffeine at bedtime"
+    },
+    {
+      "key": "Yatarken vücudunda %@'den fazla kafein kalan %lld gecede ortalama %@ daha az uyudun.",
+      "en": "On %2$lld nights you went to bed with more than %1$@ of caffeine, you slept %3$@ less on average."
+    },
+    {
+      "key": "Yatarken vücudunda %@'den fazla kafein kalan %lld gecede uyku puanın ortalama %@ puan daha düşüktü.",
+      "en": "On %2$lld nights you went to bed with more than %1$@ of caffeine, your sleep score was %3$@ points lower on average."
+    },
+    {
+      "key": "Yatarken vücudunda hâlâ kafein olacak. Bugün için kafeini burada bırakmak uykuna iyi gelir.",
+      "en": "There will still be caffeine in your body at bedtime. Stopping caffeine for today will help your sleep."
+    },
+    {
+      "key": "Yatarken vücudunda hâlâ kafein olacak; seviyen ancak **%@** civarında uyku eşiğinin altına iner. Bugün için kafeini burada bırakmak uykuna iyi gelir.",
+      "en": "There will still be caffeine in your body at bedtime; it only drops below the sleep threshold around **%@**. Stopping caffeine for today will help your sleep."
+    },
+    {
+      "key": "Yatarken vücudunda kafein kalan gecelerle kalmayan geceler arasında uyku puanında belirgin bir fark yok.",
+      "en": "There is no clear difference in your sleep score between nights with and without caffeine at bedtime."
+    },
+    {
+      "key": "Yatarken vücudunda kalacak kafein",
+      "en": "Caffeine left at bedtime"
+    },
+    {
+      "key": "Yatarken vücudunda yaklaşık %lld mg'den fazla kafein kalması derin uykuyu azaltabilir. Caffein, genelde içtiğin miktarda bir içeceği en geç ne zaman içersen yatış saatinde bu eşiğin altında kalacağını hesaplar.",
+      "en": "Going to bed with more than about %lld mg of caffeine in your body can reduce deep sleep. Caffein works out the latest time you can have your usual drink and still be below this at bedtime."
+    },
+    {
+      "key": "Yatış",
+      "en": "Bedtime"
+    },
+    {
+      "key": "Yatış ve uyanış saatini kontrol et; uyku süresi 1 ile 16 saat arasında olmalı.",
+      "en": "Check your bedtime and wake time; sleep must be between 1 and 16 hours."
+    },
+    {
+      "key": "Yavaşça ver",
+      "en": "Breathe out slowly"
+    },
+    {
+      "key": "Yaş",
+      "en": "Age"
+    },
+    {
+      "key": "Yaş ve kilo",
+      "en": "Age and weight"
+    },
+    {
+      "key": "Yaşını ve kilonu gir, sınırı sana göre hesaplayalım",
+      "en": "Enter your age and weight for a personal limit"
+    },
+    {
+      "key": "Yaşını ve kilonu girene kadar sağlıklı yetişkinler için genel referans olan 400 mg kullanılır.",
+      "en": "Until you enter your age and weight, the general 400 mg reference for healthy adults is used."
+    },
+    {
+      "key": "Yetişkinler için kilo başına yaklaşık 5,7 mg: EFSA'nın 70 kg'lık bir yetişkin için önerdiği 400 mg'nin kilona göre karşılığı.",
+      "en": "About 5.7 mg per kg for adults: EFSA's 400 mg for a 70 kg adult, scaled to your weight."
+    },
+    {
+      "key": "Yetişkinler için önerilen üst sınır olan 400 mg. Kilo arttıkça bu sınır yükselmez.",
+      "en": "The recommended upper limit of 400 mg for adults. It doesn't go higher with more weight."
+    },
+    {
+      "key": "Yeşil çay",
+      "en": "Green tea"
+    },
+    {
+      "key": "Yine de iyi hissettiriyorsa sürdürmeye değer; farklı saatlerde denemeyi düşünebilirsin.",
+      "en": "If it still feels good it's worth keeping up; you could try it at different times of day."
+    },
+    {
+      "key": "Yoğun kafein günlerinin ertesi sabahı nabzın daha yüksek",
+      "en": "Your heart rate is higher the morning after heavy caffeine days"
+    },
+    {
+      "key": "Yüksek",
+      "en": "High"
+    },
+    {
+      "key": "bugün için kalmadı",
+      "en": "none left today"
+    },
+    {
+      "key": "bugün önerilen · yaklaşık %lld bardak",
+      "en": "suggested today · about %lld glasses"
+    },
+    {
+      "key": "geçti (%@)",
+      "en": "passed (%@)"
+    },
+    {
+      "key": "günlük ortalama kafein",
+      "en": "average daily caffeine"
+    },
+    {
+      "key": "mg",
+      "en": "mg"
+    },
+    {
+      "key": "normalin oluşuyor",
+      "en": "normal still forming"
+    },
+    {
+      "key": "normalinde (%lld)",
+      "en": "at your normal (%lld)"
+    },
+    {
+      "key": "normalinden %lld düşük",
+      "en": "%lld below your normal"
+    },
+    {
+      "key": "normalinden %lld yüksek",
+      "en": "%lld above your normal"
+    },
+    {
+      "key": "orta boy",
+      "en": "medium"
+    },
+    {
+      "key": "ortalama gerginlik",
+      "en": "average tension"
+    },
+    {
+      "key": "ortalama uyku kalitesi",
+      "en": "average sleep quality"
+    },
+    {
+      "key": "ortalama uyku süresi",
+      "en": "average sleep"
+    },
+    {
+      "key": "sa",
+      "en": "h"
+    },
+    {
+      "key": "sabah nabzı",
+      "en": "morning heart rate"
+    },
+    {
+      "key": "sabah nabzı · normalin %lld",
+      "en": "morning heart rate · normal %lld"
+    },
+    {
+      "key": "son gerginlik puanın %lld/5",
+      "en": "latest tension rating %lld/5"
+    },
+    {
+      "key": "sınırı aşan gün",
+      "en": "days over limit"
+    },
+    {
+      "key": "tek shot",
+      "en": "single shot"
+    },
+    {
+      "key": "uyku kalitesi",
+      "en": "sleep quality"
+    },
+    {
+      "key": "yarın %@",
+      "en": "tomorrow %@"
+    },
+    {
+      "key": "yatarken (%@)",
+      "en": "at bedtime (%@)"
+    },
+    {
+      "key": "Çarpıntı rehberi",
+      "en": "Palpitations guide"
+    },
+    {
+      "key": "Çarpıntı ve yüksek nabız için öneriler",
+      "en": "Tips for palpitations and a high heart rate"
+    },
+    {
+      "key": "Çarpıntı, titreme ya da huzursuzluk hissediyorsan neler yapabileceğine bak.",
+      "en": "If you feel palpitations, jitters or restlessness, see what you can do."
+    },
+    {
+      "key": "Çarpıntıya şunlardan biri eşlik ediyorsa beklemeden acil yardım hattını (%@) ara:",
+      "en": "If palpitations come with any of these, call emergency services (%@) right away:"
+    },
+    {
+      "key": "Çarpıntıyı sık yaşıyorsan ya da kafein azken de oluyorsa bir doktora danış.",
+      "en": "If you get palpitations often, or even with little caffeine, see a doctor."
+    },
+    {
+      "key": "Çaylar",
+      "en": "Tea"
+    },
+    {
+      "key": "Çift espresso",
+      "en": "Double espresso"
+    },
+    {
+      "key": "Çok gergin",
+      "en": "Very tense"
+    },
+    {
+      "key": "Çok iyi",
+      "en": "Very good"
+    },
+    {
+      "key": "Çok kötü",
+      "en": "Very poor"
+    },
+    {
+      "key": "Çok sakin",
+      "en": "Very calm"
+    },
+    {
+      "key": "Ölçülüyor",
+      "en": "Measuring"
+    },
+    {
+      "key": "Ölçüm",
+      "en": "Measurement"
+    },
+    {
+      "key": "Ölçüm başlatılamadı",
+      "en": "Couldn't start measuring"
+    },
+    {
+      "key": "Ölçüm tamam",
+      "en": "Measurement done"
+    },
+    {
+      "key": "Ölçüme başla (60 sn)",
+      "en": "Start measuring (60 s)"
+    },
+    {
+      "key": "Ölçümsüz devam et",
+      "en": "Continue without measuring"
+    },
+    {
+      "key": "Önce şu anki nabzına bakalım. Parmağını kameraya hafifçe koy.",
+      "en": "First, let's check your heart rate. Rest your finger gently on the camera."
+    },
+    {
+      "key": "Özet kartını paylaş",
+      "en": "Share summary card"
+    },
+    {
+      "key": "çift shot",
+      "en": "double shot"
+    },
+    {
+      "key": "ölçülmedi",
+      "en": "not measured"
+    },
+    {
+      "key": "İdare eder",
+      "en": "OK"
+    },
+    {
+      "key": "İki dakikalık nefes tamamlandı. Kendine bu molayı verdiğin için iyi yaptın.",
+      "en": "Two minutes of breathing done. Good on you for taking this break."
+    },
+    {
+      "key": "İyi",
+      "en": "Good"
+    },
+    {
+      "key": "İyi akşamlar",
+      "en": "Good evening"
+    },
+    {
+      "key": "İyi günler",
+      "en": "Good afternoon"
+    },
+    {
+      "key": "İçecek adı",
+      "en": "Drink name"
+    },
+    {
+      "key": "İçecek ara",
+      "en": "Search drinks"
+    },
+    {
+      "key": "İçecek ekle",
+      "en": "Add a drink"
+    },
+    {
+      "key": "İçecekler, ölçümler, uyku ve gerginlik kayıtları kalıcı olarak silinir. Bu işlem geri alınamaz.",
+      "en": "Drinks, measurements, sleep and tension records will be permanently deleted. This can't be undone."
+    },
+    {
+      "key": "İçtiğin kafein yaklaşık 45 dakikada kana karışır, sonra vücudun onu yavaş yavaş atar. Yarısının atılması ortalama 5 saat sürer, ama bu kişiye göre 2 ile 10 saat arasında değişir. Caffein her içeceği bu modele göre toplar ve gün boyu vücudunda ne kadar kafein olduğunu tahmin eder.",
+      "en": "Caffeine reaches your blood in about 45 minutes, then your body slowly clears it. Clearing half takes about 5 hours on average, but anywhere from 2 to 10 hours depending on the person. Caffein adds up every drink with this model and estimates how much caffeine is in your body through the day."
+    },
+    {
+      "key": "Şimdi",
+      "en": "Now"
+    },
+    {
+      "key": "Şimdi tekrar ölçelim. Parmağını kameraya hafifçe koy.",
+      "en": "Now let's measure again. Rest your finger gently on the camera."
+    },
+    {
+      "key": "Şu an %@, yatarken %@",
+      "en": "Now %@, at bedtime %@"
+    },
+    {
+      "key": "Şu an yaklaşık **%@**.",
+      "en": "About **%@** right now."
+    },
+    {
+      "key": "Şu an yapabileceklerin",
+      "en": "What you can do now"
+    },
+    {
+      "key": "şimdi",
+      "en": "now"
+    },
+    {
+      "key": "şu an vücudunda",
+      "en": "in your body now"
+    },
+    {
+      "key": "•",
+      "en": "•"
+    }
+  ],
+  "infoplist": [
+    {
+      "key": "CFBundleDisplayName",
+      "tr": "Caffein",
+      "en": "Caffein"
+    },
+    {
+      "key": "NSCameraUsageDescription",
+      "tr": "Nabzını parmak ucundaki renk değişiminden ölçmek için arka kamera ve flaş kullanılır. Görüntü kaydedilmez.",
+      "en": "Caffein uses the back camera and flash to measure your heart rate from the colour change in your fingertip. No image is saved."
+    },
+    {
+      "key": "NSHealthShareUsageDescription",
+      "tr": "Caffein Sağlık verilerini okumaz; bu izin yalnızca ölçümlerini Sağlık'a yazmak için istenir.",
+      "en": "Caffein does not read your Health data; this permission is only used to save your measurements to Health."
+    },
+    {
+      "key": "NSHealthUpdateUsageDescription",
+      "tr": "İstersen ölçtüğün nabız değerlerini Apple Sağlık'a kaydeder.",
+      "en": "If you choose, Caffein saves your heart-rate measurements to Apple Health."
+    }
+  ]
+}

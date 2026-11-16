@@ -1,0 +1,361 @@
+%@ ekle, %lld miligram
+%@ eklendi · %@
+%@ üzerinde kafein aldığın günlerde gerginlik puanın ortalama %@ puan daha yüksekti.
+%@ üzerinde kafein aldığın günlerin ertesi sabahı dinlenme nabzın ortalama %lld atım daha yüksekti.
+%@ – %@
+%lld gecenin %lld tanesinde yatarken vücudunda %@'den fazla kafein vardı.
+%lld gün kayıt
+%lld nefes egzersizinin ardından nabzın ortalama %lld atım yavaşladı.
+%lld sa
+%lld · %lld kg
+%lld, %@
+%lld:%@
+1 bardak (150 ml)
+1 fincan
+1 ince belli bardak
+1 kapsül, 110 ml
+1 kapsül, 40 ml
+1 kupa
+1 kupa (240 ml)
+1 küçük fincan (50 ml)
+1 küçük fincan (finjan)
+1 tablet
+1 · Çok sakin
+1 çay kaşığı (2 g)
+1/3 · Ölçüm
+18 yaş altında kilo başına 3 mg (EFSA).
+2 dakikalık nefes egzersizini başlat
+2/3 · Nefes
+250 ml kutu
+3/3 · Tekrar ölçüm
+330 ml
+40 g
+5 · Çok gergin
+500 ml kutu
+60 saniyelik dinlenme nabzı ve kısa bir uyku kaydı. Kişisel normalini bu ölçümler oluşturur.
+Acil yardım: %@
+Akıllı saat gerekmez, hesap açman gerekmez. Her şey yalnızca bu telefonda saklanır. Caffein bir sağlıklı yaşam uygulamasıdır, tıbbi cihaz değildir.
+Akşam
+Americano
+Arap kahvesi (kahve arabi)
+Arka kamerayı ve flaşı parmak ucunla hafifçe ört.
+Atla
+Ayarlar
+Ayarları aç
+Aç karnına içtiysen hafif bir şeyler ye.
+BPM
+Bayılma, bayılacak gibi olma ya da şiddetli baş dönmesi
+Başla
+Beyaz çay
+Bildirim izni verilmedi. Ayarlar → Bildirimler → Caffein bölümünden açabilirsin.
+Bilmekte fayda var
+Bir iki bardak su iç.
+Bitter çikolata
+Bitti
+Bu cihazda arka kamera bulunamadı.
+Bu gece %@ uyudun.
+Bu seçimle bugünkü son kahve saatin
+Bugün
+Bugün %@ / %@ günlük sınır
+Bugün için kafeini burada bırak. Kola, enerji içeceği ve bitter çikolata da kafein içerir.
+Bugün için kafeini burada bırakman iyi olur. Çarpıntı, titreme ya da huzursuzluk hissediyorsan rehbere bak.
+Bugün için kalan: %@. Genelde içtiğin bir içecek (%@) sınırı aşabilir.
+Bugün ne kadar gergindin?
+Bugün toplam %@; yaşına ve kilona göre günlük sınırın %@.
+Bugünkü kafein için ek
+Bugünkü son kahve saatin: **%@**. Sonrası uykunu etkileyebilir.
+Bugünün son kahve saati (**%@**) geçti. Canın çekerse kafeinsiz bir içecek seç.
+Bunlar son 4 haftadaki kendi kayıtlarındaki eğilimler; neden-sonuç ilişkisi kanıtlamaz.
+Bunu ve uygulama dilini sonra Ayarlar'dan değiştirebilirsin.
+Burnundan 4 saniye al, ağzından 6 saniyede ver. Omuzlarını bırak.
+Buzlu kahve
+Cafezinho
+Caffein bir sağlıklı yaşam uygulamasıdır; tıbbi cihaz değildir ve teşhis ya da tedavi amacıyla kullanılmamalıdır.
+Caffein tıbbi bir cihaz değildir. Ritim bozukluğu gibi durumları tespit etmez. Sağlığınla ilgili bir endişen varsa doktoruna danış.
+Caffein tıbbi bir cihaz değildir; ritim bozukluğunu tespit edemez.
+Caffein, kafeinin uykuna ve gerginliğine sende nasıl etki ettiğini gösterir. Amaç kafeini yasaklamak değil, sana iyi gelen dengeyi bulmak.
+Cappuccino
+Chai latte
+Cold brew
+Cortado / Macchiato
+Daha çok kafein aldığın günlerde gerginlik puanın daha yüksek değildi.
+Dakikada %lld atım
+Demleme çay
+Demleme çay (kupa)
+Destek
+Devam
+Değerlendiriliyor
+Değerler bir porsiyon için yaklaşıktır; demleme süresi, fincan boyu ve markaya göre değişir.
+Dibek kahvesi
+Dil
+Dinlenme nabzın %lld, normalinden %lld atım düşük.
+Dinlenme nabzın %lld, normalinden %lld atım yüksek. Uykusuzluk, stres, hastalık ya da dünkü geç kafein bunu etkileyebilir.
+Dinlenme nabzın %lld, normalinle (%lld) aynı düzeyde.
+Dinlenme nabzın %lld. Kişisel normalin %lld sabah ölçümüyle oluşur; şu an %lld ölçümün var.
+Dinlenmene rağmen dakikalarca geçmeyen çok hızlı ya da düzensiz kalp atışı
+Diğer
+Diğer içecek
+Duraklatıldı
+Ekle
+En az bir haftalık kayıttan sonra Caffein kendi verilerini karşılaştırır: örneğin yatarken kafein kalan gecelerde uyku puanın düşüyor mu? Bunlar senin verindeki eğilimlerdir, kesin neden-sonuç ilişkisi değildir.
+Enerji içeceği
+Enerji içeceği (büyük)
+Enerji ve gazlı içecekler
+Espresso
+Filtre kahve
+Flat white
+French press
+Genelde kaçta yatarsın?
+Genelde yatış saatin
+Gergin
+Gerginim
+Gerginlik
+Gerginlik göstergesi
+Geri al
+Geç kafein uykunu etkiliyor olabilir
+Geç kafein uykunu kısaltıyor olabilir
+Girilmedi
+Gizlilik politikası
+Göğüs ağrısı, baskı ya da sıkışma
+Gün
+Gün boyu kafein eğrisi
+Günaydın
+Günde birkaç dokunuş
+Günlük ihtiyaç (70 kg varsayıldı)
+Günlük kafein
+Günlük kafein sınırın
+Günlük kafein sınırın yaşına ve kilona göre hesaplanır. Bu bilgiler yalnızca bu telefonda kalır.
+Günlük sınır
+Günlük sınırına yaklaşıyorsun: %@ / %@
+Günlük sınırını geçtin: %@ / %@
+Güvenilir bir ölçüm alınamadı
+Haftalık özet
+Haftalık özetin hazır
+Haftam
+Hamilelik ve emzirme döneminde önerilen en fazla 200 mg.
+Hamileyim ya da emziriyorum
+Hatırlatıcılar
+Hazır kahve
+Hazırlanıyor
+Hemen tıbbi yardım al
+Her atımda titreşim
+Her kalp atışında parmak ucuna biraz daha kan dolar ve bu kan flaşın ışığını biraz daha emer. Kamera bu küçük renk değişimini saniyede 30 kez okur. Sinyal net değilse Caffein sayı göstermez ve tekrar ölçmeni ister.
+Her şey yalnızca bu telefonda saklanır. Kamera görüntüsü kaydedilmez; her kareden yalnızca ortalama renk değeri alınır.
+Kafein
+Kafein (mg)
+Kafein eğrisi
+Kafein eğrisi ve son kahve saati bu saate göre hesaplanır.
+Kafein gerginliğini artırmıyor gibi görünüyor
+Kafein hassasiyeti kişiden kişiye çok değişir. Bazı ilaçlar, hamilelik, doğum kontrol hapları ve karaciğer sağlığı kafeinin vücuttan atılmasını yavaşlatır.
+Kafein saatlerin dengeli
+Kafein sende ne kadar sürüyor?
+Kafein tableti
+Kafein, uyku ve gerginlik haftana bir göz at.
+Kafeinin vücuttan atılma hızı kişiden kişiye değişir: genetik, hamilelik, doğum kontrol hapı ve sigara bunu etkiler. Öğleden sonra içtiğin kahve gece uykunu bozuyorsa "Uzun"u seç. Bu seçim kafein eğrisini, yatarken kalan kafeini ve son kahve saatini değiştirir.
+Kafeinli günlerde daha gergin hissediyorsun
+Kafeinsiz kahve
+Kahveden önce 60 saniyelik sabah ölçümünü yap.
+Kahveler
+Kahveni bırakma, tanı
+Kalp rahatsızlığın varsa ya da ilaç kullanıyorsan doktoruna danış.
+Kamera başlatılamadı.
+Kamera izni gerekli
+Kamera izni verilmedi.
+Kapat
+Kapsül kahve (espresso)
+Kapsül kahve (lungo)
+Kaydet
+Kayıtlı gecelerin hiçbirinde yatarken vücudunda belirgin kafein kalmadı.
+Kaçta uyandın?
+Kaçta yattın?
+Kilo
+Kilona göre günlük ihtiyaç
+Kişisel nabız normalin: %lld/%lld sabah ölçümü
+Kişisel çıkarımlar
+Kişisel çıkarımlar için en az %lld günlük kayıt gerekiyor. Şu an %lld gün var.
+Kola
+Kola (şekersiz)
+Kötü
+Kıpırdamadan bekle
+Kısa (yarısı ~3,5 saatte atılır)
+Latte
+Listede yok mu?
+Masala chai
+Matcha
+Matcha latte
+Matcha ve mate
+Mate
+Mocha
+Moka pot
+Nabzı da ölç
+Nabzın %lld BPM olarak kaydedilecek.
+Nabzın %lld atım yavaşladı. Yavaş nefes, sinir sistemini sakinleştirmenin en hızlı yollarından biri.
+Nabzın %lld atım yükseldi. Bazen ölçüm anı da heyecan yaratır; birkaç dakika sonra tekrar deneyebilirsin.
+Nabzın hemen hemen aynı kaldı. Hissettiğin rahatlama da önemli; sayı her zaman değişmeyebilir.
+Nabzını parmak ucundaki renk değişiminden okuyoruz. Görüntü kaydedilmez.
+Nabzını ölç, 2 dakika birlikte nefes alalım, sonra tekrar ölç.
+Nabız ölçümü
+Nasıl uyudun?
+Nasıl çalışır?
+Ne içtin?
+Ne kadar kafeinin sana uygun olduğu yaşına ve kilona göre değişir.
+Nefes al
+Nefes darlığı
+Nefes egzersizi nabzını pek değiştirmedi
+Nefes egzersizi sana iyi geliyor
+Oolong çayı
+Orta
+Ortalama
+Ortalama (~5 saat)
+Otur ve yavaş nefes al: 4 saniye al, 6 saniyede ver.
+Parmağını arka kameraya koy
+Pazar akşamı haftalık özet
+Pil tasarrufu için durdu. Devam etmek için dokun.
+Profil
+Saat
+Sabah
+Sabah 60 saniyelik nabız ve iki soru. Gün içinde içtiğin her şeyi tek dokunuşla ekle. Akşam günün gerginliğine puan ver.
+Sabah dinlenme nabzın birkaç günde kişisel bir normal oluşturur. Bir sabah nabzın bu normalden belirgin şekilde yüksekse, bu uykusuzluk, stres, hastalık ya da geç kafeinin işareti olabilir. Caffein bunu akşam verdiğin gerginlik puanıyla birleştirir.
+Sabah hatırlatıcısı
+Sabah kaydın tamam
+Sabah nabzın normalinde
+Sabah nabzın normalinden %lld düşük
+Sabah nabzın normalinden %lld yüksek
+Sabah nabzını Apple Sağlık'a kaydet
+Sabah ölçümü ve akşam puanıyla burada günlük gerginlik göstergen oluşacak.
+Sabah ölçümünü yap
+Sadece uyku sorularını yanıtla
+Sakin
+Sakin, kısa bir yürüyüş titremeyi azaltabilir.
+Sana göre günlük kafein sınırı: %@
+Sana özel çıkarımlar
+Sağlık izni verilmedi. Ayarlar → Sağlık → Veri Erişimi bölümünden açabilirsin.
+Sencha
+Seni tanıyalım
+Sil
+Silmek için kayda basılı tut.
+Sinyal aranıyor
+Sinyal net değildi, tekrar ölçüyoruz. Parmağını bastırmadan, sabit tut.
+Sinyal tam net değildi; sonuç birkaç atım sapabilir.
+Sinyal zayıf olduğu için sayı göstermiyoruz. Elini ısıtıp, parmağını bastırmadan tekrar dene.
+Siyah çay (poşet)
+Son 7 gün
+Son kahve saati
+Son kahve saatini buna göre hesaplıyoruz.
+Son kahveni biraz öne almayı dene
+Soğuk çay
+Su
+Su kafeini vücudundan daha hızlı atmaz; kafeini karaciğer kendi hızında parçalar. Ek su, kafeinin hafif idrar söktürücü etkisini dengeler.
+Sürüm
+Sınır
+Sınır saati
+Sınırlar
+Sınırın yaşına ve kilona göre hesaplanır (EFSA). Yetişkinlerde kilo başına yaklaşık 5,7 mg, en fazla 400 mg; 70 kg'lık bir yetişkin için bu yaklaşık 4 kupa filtre kahvedir. 18 yaş altında kilo başına 3 mg. Hamilelik ve emzirmede en fazla 200 mg. Sınıra yaklaştığında ve geçtiğinde Bugün ekranında grafiğin altında uyarı görürsün. Bu bir hedef değil, bir üst sınırdır.
+Tahminen **%@** civarında %lld mg'nin altına iner. Etkiler genelde seviye düştükçe azalır.
+Tekrar dene
+Tekrar ölç
+Telefonu sabit tut
+Telefonun dili
+Tüm kayıtların yalnızca bu telefonda saklanır. Hesap yok, sunucu yok, reklam yok.
+Tüm veriler silinsin mi?
+Tüm verileri sil
+Türk kahvesi
+Uygulama hemen değişir. İzin pencereleri ve bildirimler uygulama yeniden açılınca değişir.
+Uyku
+Uyku eşiği
+Uyku saatin
+Uyku süresi
+Uyku ve yatarkenki kafein
+Uykun geç kafeine dayanıklı görünüyor
+Uzun (~7 saat)
+Vazgeç
+Verilerin
+Verin sende kalır
+Vücudunda şu an yaklaşık %@ kafein var. Bugün için bir sonraki kahveyi atlamak gerginliğine iyi gelebilir.
+Vücudunda şu an yüksek miktarda kafein var
+Vücudundaki kafein
+Yaklaşık %lld sn kaldı
+Yataktan kalkmadan ya da kalktıktan hemen sonra, oturarak ölç. Kahveden önce ölçmek kişisel normalini daha doğru yapar.
+Yatarken az kafein
+Yatarken kafein vardı
+Yatarken vücudunda %@'den fazla kafein kalan %lld gecede ortalama %@ daha az uyudun.
+Yatarken vücudunda %@'den fazla kafein kalan %lld gecede uyku puanın ortalama %@ puan daha düşüktü.
+Yatarken vücudunda hâlâ kafein olacak. Bugün için kafeini burada bırakmak uykuna iyi gelir.
+Yatarken vücudunda hâlâ kafein olacak; seviyen ancak **%@** civarında uyku eşiğinin altına iner. Bugün için kafeini burada bırakmak uykuna iyi gelir.
+Yatarken vücudunda kafein kalan gecelerle kalmayan geceler arasında uyku puanında belirgin bir fark yok.
+Yatarken vücudunda kalacak kafein
+Yatarken vücudunda yaklaşık %lld mg'den fazla kafein kalması derin uykuyu azaltabilir. Caffein, genelde içtiğin miktarda bir içeceği en geç ne zaman içersen yatış saatinde bu eşiğin altında kalacağını hesaplar.
+Yatış
+Yatış ve uyanış saatini kontrol et; uyku süresi 1 ile 16 saat arasında olmalı.
+Yavaşça ver
+Yaş
+Yaş ve kilo
+Yaşını ve kilonu gir, sınırı sana göre hesaplayalım
+Yaşını ve kilonu girene kadar sağlıklı yetişkinler için genel referans olan 400 mg kullanılır.
+Yetişkinler için kilo başına yaklaşık 5,7 mg: EFSA'nın 70 kg'lık bir yetişkin için önerdiği 400 mg'nin kilona göre karşılığı.
+Yetişkinler için önerilen üst sınır olan 400 mg. Kilo arttıkça bu sınır yükselmez.
+Yeşil çay
+Yine de iyi hissettiriyorsa sürdürmeye değer; farklı saatlerde denemeyi düşünebilirsin.
+Yoğun kafein günlerinin ertesi sabahı nabzın daha yüksek
+Yüksek
+bugün için kalmadı
+bugün önerilen · yaklaşık %lld bardak
+geçti (%@)
+günlük ortalama kafein
+mg
+normalin oluşuyor
+normalinde (%lld)
+normalinden %lld düşük
+normalinden %lld yüksek
+orta boy
+ortalama gerginlik
+ortalama uyku kalitesi
+ortalama uyku süresi
+sa
+sabah nabzı
+sabah nabzı · normalin %lld
+son gerginlik puanın %lld/5
+sınırı aşan gün
+tek shot
+uyku kalitesi
+yarın %@
+yatarken (%@)
+Çarpıntı rehberi
+Çarpıntı ve yüksek nabız için öneriler
+Çarpıntı, titreme ya da huzursuzluk hissediyorsan neler yapabileceğine bak.
+Çarpıntıya şunlardan biri eşlik ediyorsa beklemeden acil yardım hattını (%@) ara:
+Çarpıntıyı sık yaşıyorsan ya da kafein azken de oluyorsa bir doktora danış.
+Çaylar
+Çift espresso
+Çok gergin
+Çok iyi
+Çok kötü
+Çok sakin
+Ölçülüyor
+Ölçüm
+Ölçüm başlatılamadı
+Ölçüm tamam
+Ölçüme başla (60 sn)
+Ölçümsüz devam et
+Önce şu anki nabzına bakalım. Parmağını kameraya hafifçe koy.
+Özet kartını paylaş
+çift shot
+ölçülmedi
+İdare eder
+İki dakikalık nefes tamamlandı. Kendine bu molayı verdiğin için iyi yaptın.
+İyi
+İyi akşamlar
+İyi günler
+İçecek adı
+İçecek ara
+İçecek ekle
+İçecekler, ölçümler, uyku ve gerginlik kayıtları kalıcı olarak silinir. Bu işlem geri alınamaz.
+İçtiğin kafein yaklaşık 45 dakikada kana karışır, sonra vücudun onu yavaş yavaş atar. Yarısının atılması ortalama 5 saat sürer, ama bu kişiye göre 2 ile 10 saat arasında değişir. Caffein her içeceği bu modele göre toplar ve gün boyu vücudunda ne kadar kafein olduğunu tahmin eder.
+Şimdi
+Şimdi tekrar ölçelim. Parmağını kameraya hafifçe koy.
+Şu an %@, yatarken %@
+Şu an yaklaşık **%@**.
+Şu an yapabileceklerin
+şimdi
+şu an vücudunda
+•

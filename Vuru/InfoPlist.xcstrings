@@ -1,0 +1,350 @@
+{
+  "sourceLanguage" : "tr",
+  "strings" : {
+    "CFBundleDisplayName" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein - Track Your Daily Caffeine Consumption"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein - Track Your Daily Caffeine Consumption"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein - Track Your Daily Caffeine Consumption"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein - Track Your Daily Caffeine Consumption"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein - Track Your Daily Caffeine Consumption"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein - Track Your Daily Caffeine Consumption"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein - Track Your Daily Caffeine Consumption"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein - Track Your Daily Caffeine Consumption"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein - Track Your Daily Caffeine Consumption"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein - Track Your Daily Caffeine Consumption"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein - Track Your Daily Caffeine Consumption"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein - Track Your Daily Caffeine Consumption"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein - Track Your Daily Caffeine Consumption"
+          }
+        }
+      }
+    },
+    "CFBundleName" : {
+      "comment" : "Bundle name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Vuru"
+          }
+        }
+      }
+    },
+    "NSCameraUsageDescription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يستخدم Caffein الكاميرا الخلفية والفلاش لقياس نبضك من تغيّر اللون في طرف إصبعك. لا تُحفظ أي صورة."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আঙুলের ডগার রঙের পরিবর্তন থেকে আপনার হার্ট রেট মাপতে Caffein পেছনের ক্যামেরা আর ফ্ল্যাশ ব্যবহার করে। কোনো ছবি সেভ হয় না।"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein nutzt die Rückkamera und den Blitz, um deinen Puls an der Farbänderung deiner Fingerkuppe zu messen. Es wird kein Bild gespeichert."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein uses the back camera and flash to measure your heart rate from the colour change in your fingertip. No image is saved."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein usa la cámara trasera y el flash para medir tu pulso a partir del cambio de color en la yema de tu dedo. No se guarda ninguna imagen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein utilise l'appareil photo arrière et le flash pour mesurer ton pouls à partir du changement de couleur du bout de ton doigt. Aucune image n'est enregistrée."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein आपकी उंगली के सिरे के रंग में बदलाव से धड़कन मापने के लिए पीछे का कैमरा और फ़्लैश इस्तेमाल करता है। कोई तस्वीर सेव नहीं होती।"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein menggunakan kamera belakang dan lampu kilat untuk mengukur detak jantungmu dari perubahan warna di ujung jarimu. Gambar tidak disimpan."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffeinは指先の色の変化から心拍数を測るために、背面カメラとフラッシュを使用します。映像は保存されません。"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Caffein usa a câmera traseira e o flash para medir sua frequência cardíaca pela mudança de cor na ponta do seu dedo. Nenhuma imagem é gravada."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Задняя камера и вспышка нужны, чтобы измерять пульс по изменению цвета кончика пальца. Изображение не сохраняется."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nabzını parmak ucundaki renk değişiminden ölçmek için arka kamera ve flaş kullanılır. Görüntü kaydedilmez."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein 使用后置摄像头和闪光灯，通过指尖的颜色变化测量你的心率。不会保存任何图像。"
+          }
+        }
+      }
+    },
+    "NSHealthShareUsageDescription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لا يقرأ Caffein بيانات صحتي؛ يُطلب هذا الإذن فقط لحفظ قياساتك في صحتي."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein আপনার স্বাস্থ্য ডেটা পড়ে না; এই অনুমতি শুধু আপনার মাপগুলো স্বাস্থ্য অ্যাপে সেভ করার জন্য চাওয়া হয়।"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein liest keine Health-Daten; diese Berechtigung wird nur benötigt, um deine Messungen in Health zu speichern."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein does not read your Health data; this permission is only used to save your measurements to Health."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein no lee tus datos de Salud; este permiso solo se usa para guardar tus mediciones en Salud."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein ne lit pas tes données Santé ; cette autorisation sert uniquement à enregistrer tes mesures dans Santé."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein आपका स्वास्थ्य डेटा नहीं पढ़ता; यह अनुमति सिर्फ़ आपके माप स्वास्थ्य ऐप में सेव करने के लिए मांगी जाती है।"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein tidak membaca data Kesehatanmu; izin ini hanya digunakan untuk menyimpan hasil pengukuranmu ke app Kesehatan."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffeinはヘルスケアのデータを読み取りません。この許可は、測定結果をヘルスケアに保存するためだけに使われます。"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Caffein não lê seus dados do Saúde; esta permissão é usada só para salvar suas medições no Saúde."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein не читает данные из приложения «Здоровье»; это разрешение нужно только для записи твоих замеров в «Здоровье»."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein Sağlık verilerini okumaz; bu izin yalnızca ölçümlerini Sağlık'a yazmak için istenir."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffein 不会读取你的健康数据；此权限仅用于将你的测量结果保存到“健康”。"
+          }
+        }
+      }
+    },
+    "NSHealthUpdateUsageDescription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إذا أردت، يحفظ Caffein قياسات نبضك في تطبيق صحتي من Apple."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আপনি চাইলে Caffein আপনার হার্ট রেটের মাপ Apple স্বাস্থ্য অ্যাপে সেভ করে।"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn du möchtest, speichert Caffein deine gemessenen Pulswerte in Apple Health."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If you choose, Caffein saves your heart-rate measurements to Apple Health."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si quieres, Caffein guarda tus mediciones de pulso en la app Salud."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si tu le souhaites, Caffein enregistre tes mesures de pouls dans l'app Santé."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आप चाहें तो Caffein आपकी धड़कन के माप Apple स्वास्थ्य में सेव करता है।"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jika kamu mau, Caffein menyimpan hasil pengukuran detak jantungmu ke app Kesehatan Apple."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "希望する場合、Caffeinは測定した心拍数をAppleヘルスケアに保存します。"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se você quiser, o Caffein salva suas medições de frequência cardíaca no app Saúde."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если хочешь, Caffein сохраняет измеренные значения пульса в Apple Здоровье."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İstersen ölçtüğün nabız değerlerini Apple Sağlık'a kaydeder."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果你愿意，Caffein 会将你测得的心率保存到 Apple 健康。"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
