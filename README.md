@@ -4,9 +4,9 @@ Kafeinin uykuna ve gerginliğine **sende** nasıl etki ettiğini gösteren sağl
 
 Amaç kafeini kötülemek değil: ne zaman, ne kadar içtiğini görüp sana iyi gelen dengeyi bulmak ve fazla kafeinle gelen çarpıntıda ne yapacağını bilmek.
 
-> App Store'da: **Caffein - Caffeine Tracker** (ad) ve **Track Your Daily Consumption** (alt başlık). Ana ekran adı **Caffein - Track Your Daily Caffeine Consumption** (ana ekranda kısaltılarak görünür). Proje klasörü, Xcode hedefi ve Bundle ID (`com.secilgunay.vuru`) eski çalışma adını koruyor; kullanıcı bunları görmez ve Bundle ID değişirse cihazdaki veriler kaybolur.
+> App Store'da: **Caffein - Caffeine Tracker** (ad) ve **Track Your Daily Consumption** (alt başlık). Ana ekran adı **Caffein - Track Your Daily Caffeine Consumption** (ana ekranda kısaltılarak görünür). Yalnızca Bundle ID (`com.secilgunay.vuru`) eski çalışma adını koruyor: kullanıcı onu görmez ve değişirse cihazdaki veriler kaybolur.
 
-İkon: ölçü çizgili fincan. Kaynak SVG dosyaları `Design/icon/` altında; açık, koyu ve renklendirilmiş varyantlar `Vuru/Assets.xcassets/AppIcon.appiconset/` içinde (1024×1024, saydamlıksız). App Store bilgileri: [AppStore.md](AppStore.md).
+İkon: ölçü çizgili fincan. Kaynak SVG dosyaları `Design/icon/` altında; açık, koyu ve renklendirilmiş varyantlar `Caffein/Assets.xcassets/AppIcon.appiconset/` içinde (1024×1024, saydamlıksız). App Store bilgileri: [AppStore.md](AppStore.md).
 
 ## Günlük kullanım
 
@@ -37,8 +37,8 @@ Amaç kafeini kötülemek değil: ne zaman, ne kadar içtiğini görüp sana iyi
 ## Yapı
 
 ```
-Vuru.xcodeproj
-Vuru/
+Caffein.xcodeproj
+Caffein/
   App/            giriş, sekmeler, ayar anahtarları, gün sınırı (04:00)
   Features/
     Today/        Bugün ekranı: sabah, kafein, içecek ekleme, gerginlik, akşam
@@ -60,7 +60,7 @@ l10n/             çeviri dosyaları ve katalog üretme betikleri
 
 ## Çalıştırma
 
-`Vuru.xcodeproj`'yi Xcode ile açıp ▶. Simülatörde kamera yok, sentetik nabız sinyali kullanılır.
+`Caffein.xcodeproj`'yi Xcode ile açıp ▶. Simülatörde kamera yok, sentetik nabız sinyali kullanılır.
 
 Testler (43 adet): Xcode'da ⌘U ya da
 

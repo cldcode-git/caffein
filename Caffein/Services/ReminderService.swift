@@ -3,14 +3,18 @@ import UserNotifications
 
 /// Local notifications only; nothing leaves the phone.
 enum ReminderService {
-    private static let morningID = "vuru.morning"
-    private static let weeklyID = "vuru.weekly"
+    private static let morningID = "caffein.morning"
+    private static let weeklyID = "caffein.weekly"
+    /// IDs used by builds made before the rename; removed so old reminders don't fire twice.
+    private static let legacyMorningID = "vuru.morning"
+    private static let legacyWeeklyID = "vuru.weekly"
 
     static func requestPermission() async -> Bool {
         (try? await UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .sound])) ?? false
     }
 
     static func scheduleMorning(minutes: Int) async {
+        UNUserNotificationCenter.current().removePendingNotificationRequests(withIdentifiers: [legacyMorningID])
         let content = UNMutableNotificationContent()
         content.title = L("Günaydın")
         content.body = L("Kahveden önce 60 saniyelik sabah ölçümünü yap.")
@@ -24,6 +28,7 @@ enum ReminderService {
     }
 
     static func scheduleWeekly() async {
+        UNUserNotificationCenter.current().removePendingNotificationRequests(withIdentifiers: [legacyWeeklyID])
         let content = UNMutableNotificationContent()
         content.title = L("Haftalık özetin hazır")
         content.body = L("Kafein, uyku ve gerginlik haftana bir göz at.")
@@ -37,10 +42,10 @@ enum ReminderService {
     }
 
     static func cancelMorning() {
-        UNUserNotificationCenter.current().removePendingNotificationRequests(withIdentifiers: [morningID])
+        UNUserNotificationCenter.current().removePendingNotificationRequests(withIdentifiers: [morningID, legacyMorningID])
     }
 
     static func cancelWeekly() {
-        UNUserNotificationCenter.current().removePendingNotificationRequests(withIdentifiers: [weeklyID])
+        UNUserNotificationCenter.current().removePendingNotificationRequests(withIdentifiers: [weeklyID, legacyWeeklyID])
     }
 }

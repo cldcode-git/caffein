@@ -121,8 +121,8 @@ enum BuildInfo {
 
 enum AppLinks {
     // TODO: Faz 5'te gerçek adreslerle değiştir.
-    static let privacyPolicy = URL(string: "https://example.com/vuru/gizlilik")!
-    static let support = URL(string: "https://example.com/vuru/destek")!
+    static let privacyPolicy = URL(string: "https://example.com/caffein/gizlilik")!
+    static let support = URL(string: "https://example.com/caffein/destek")!
 
     /// Emergency number for the current region (112 works across Europe and Türkiye).
     static var emergencyNumber: String {

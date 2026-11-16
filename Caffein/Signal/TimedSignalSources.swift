@@ -8,7 +8,7 @@ final class SyntheticSignalSource: SignalSource {
     let label: String
 
     private var generator: SyntheticPulseGenerator
-    private let queue = DispatchQueue(label: "vuru.synthetic")
+    private let queue = DispatchQueue(label: "caffein.synthetic")
     private var timer: DispatchSourceTimer?
 
     init(scenario: SyntheticScenario) {

@@ -9,7 +9,7 @@
 | Ana ekran adı | Caffein - Track Your Daily Caffeine Consumption | `CFBundleDisplayName`; ana ekranda kısaltılarak görünür |
 | Bundle ID | com.secilgunay.vuru | Değiştirme: kurulu uygulamanın verileri kaybolur |
 | Kategori | Sağlık ve Fitness | |
-| İkon | `Vuru/Assets.xcassets/AppIcon.appiconset/AppIcon-light.png` | 1024×1024, saydamlıksız |
+| İkon | `Caffein/Assets.xcassets/AppIcon.appiconset/AppIcon-light.png` | 1024×1024, saydamlıksız |
 
 Ana ekran adı tam haliyle ayarlı. App Store Connect bu 47 karakterlik adı uygulama adı olarak kabul etmez; mağazada şöyle görünür: **Caffein - Caffeine Tracker** başlığı, altında **Track Your Daily Consumption**.
 

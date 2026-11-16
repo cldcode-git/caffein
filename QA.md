@@ -12,7 +12,7 @@ Uygulama mağazaya çıkmadan üç yerde test edilir:
 
 ## 1. Simülatör
 
-1. `Vuru.xcodeproj` dosyasını Xcode ile aç, bir iPhone simülatörü seç, ▶ (⌘R).
+1. `Caffein.xcodeproj` dosyasını Xcode ile aç, bir iPhone simülatörü seç, ▶ (⌘R).
 2. Simülatörde kamera olmadığı için nabız ölçümleri sahte bir 72 BPM sinyaliyle çalışır: 1 sn sonra parmak "konmuş" sayılır. Ekranları ve akışları denemek için yeterlidir; doğruluk telefonda test edilir.
 
 **Birim testleri:** ⌘U (43 test: nabız algoritması + kafein modeli + yaş/kilo sınırı + su önerisi + gerginlik + uyku süresi + çıkarımlar).
@@ -21,7 +21,7 @@ Uygulama mağazaya çıkmadan üç yerde test edilir:
 
 1. iPhone'u kabloyla bağla, "Bu bilgisayara güven" de.
 2. iPhone'da **Ayarlar → Gizlilik ve Güvenlik → Geliştirici Modu**'nu aç.
-3. Xcode → Vuru hedefi → **Signing & Capabilities** → Team: kendi Apple ID'n.
+3. Xcode → Caffein hedefi → **Signing & Capabilities** → Team: kendi Apple ID'n.
    - Bundle ID alınmışsa `com.secilgunay.vuru` kısmını değiştir.
    - Ücretsiz hesapla HealthKit imzalama hatası verirse Build Settings → Code Signing Entitlements alanını geçici olarak boşalt.
 4. Telefonu seç, ▶. İlk açılışta **Ayarlar → Genel → VPN ve Cihaz Yönetimi**'nden geliştiriciye güven.

@@ -2,7 +2,7 @@ import SwiftData
 import SwiftUI
 
 @main
-struct VuruApp: App {
+struct CaffeinApp: App {
     init() {
         AppDefaults.register()
     }

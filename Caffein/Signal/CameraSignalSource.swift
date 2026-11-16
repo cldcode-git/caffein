@@ -10,7 +10,7 @@ final class CameraSignalSource: NSObject, SignalSource, AVCaptureVideoDataOutput
     let torchLevel: Float
 
     private let session = AVCaptureSession()
-    private let queue = DispatchQueue(label: "vuru.camera", qos: .userInitiated)
+    private let queue = DispatchQueue(label: "caffein.camera", qos: .userInitiated)
     private var device: AVCaptureDevice?
     private var isConfigured = false
 

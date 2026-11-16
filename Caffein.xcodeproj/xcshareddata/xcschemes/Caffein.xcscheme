@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0A0000000000000000000005"
-               BuildableName = "Vuru.app"
-               BlueprintName = "Vuru"
-               ReferencedContainer = "container:Vuru.xcodeproj">
+               BuildableName = "Caffein.app"
+               BlueprintName = "Caffein"
+               ReferencedContainer = "container:Caffein.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -65,9 +65,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0A0000000000000000000005"
-            BuildableName = "Vuru.app"
-            BlueprintName = "Vuru"
-            ReferencedContainer = "container:Vuru.xcodeproj">
+            BuildableName = "Caffein.app"
+            BlueprintName = "Caffein"
+            ReferencedContainer = "container:Caffein.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -82,9 +82,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0A0000000000000000000005"
-            BuildableName = "Vuru.app"
-            BlueprintName = "Vuru"
-            ReferencedContainer = "container:Vuru.xcodeproj">
+            BuildableName = "Caffein.app"
+            BlueprintName = "Caffein"
+            ReferencedContainer = "container:Caffein.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
