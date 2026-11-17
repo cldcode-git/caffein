@@ -1,15 +1,27 @@
 import Foundation
 
-/// What the daily limit is based on. Entered at onboarding.
+public enum BiologicalSex: String, CaseIterable, Codable, Sendable {
+    case female, male
+    /// The user chose not to say.
+    case unspecified
+}
+
+/// What the daily limit and the resting-pulse reference are based on.
+/// Entered at onboarding.
 public struct CaffeineProfile: Equatable, Sendable {
     public var age: Int
     public var weightKg: Double
     public var pregnantOrBreastfeeding: Bool
+    /// Doesn't change the caffeine limit (EFSA's limits are the same for
+    /// both sexes); used for the resting-pulse reference.
+    public var sex: BiologicalSex
 
-    public init(age: Int, weightKg: Double, pregnantOrBreastfeeding: Bool = false) {
+    public init(age: Int, weightKg: Double, pregnantOrBreastfeeding: Bool = false,
+                sex: BiologicalSex = .unspecified) {
         self.age = age
         self.weightKg = weightKg
         self.pregnantOrBreastfeeding = pregnantOrBreastfeeding
+        self.sex = sex
     }
 }
 

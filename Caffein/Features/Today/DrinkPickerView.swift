@@ -1,14 +1,16 @@
 import CaffeineKit
 import SwiftUI
 
-/// Full drink list, grouped by kind, plus a custom entry.
+/// Full drink list, grouped by kind, plus a custom entry. Picking a drink
+/// opens the count-and-time form.
 struct DrinkPickerView: View {
-    let add: (Drink, String?) -> Void
+    let add: (_ drink: Drink, _ customName: String?, _ servings: Int, _ date: Date) -> Void
 
     @Environment(\.dismiss) private var dismiss
     @State private var customName = ""
     @State private var customMg = ""
     @State private var search = ""
+    @State private var selected: DrinkChoice?
 
     var body: some View {
         NavigationStack {
@@ -28,9 +30,8 @@ struct DrinkPickerView: View {
                     Button("Ekle") {
                         guard let mg = Double(customMg), mg > 0 else { return }
                         let name = customName.trimmingCharacters(in: .whitespaces)
-                        add(Drink(id: "custom", category: .other, caffeineMg: mg, symbol: "drop.fill"),
-                            name.isEmpty ? L("Diğer içecek") : name)
-                        dismiss()
+                        selected = DrinkChoice(drink: Drink(id: "custom", category: .other, caffeineMg: mg, symbol: "drop.fill"),
+                                               customName: name.isEmpty ? L("Diğer içecek") : name)
                     }
                     .disabled(Double(customMg) == nil)
                 } header: {
@@ -41,6 +42,12 @@ struct DrinkPickerView: View {
             }
             .searchable(text: $search, placement: .navigationBarDrawer(displayMode: .always), prompt: Text("İçecek ara"))
             .navigationTitle("İçecek ekle")
+            .navigationDestination(item: $selected) { choice in
+                AddDrinkForm(choice: choice) { servings, date in
+                    add(choice.drink, choice.customName, servings, date)
+                    dismiss()
+                }
+            }
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) {
@@ -59,8 +66,7 @@ struct DrinkPickerView: View {
 
     private func row(_ drink: Drink) -> some View {
         Button {
-            add(drink, nil)
-            dismiss()
+            selected = DrinkChoice(drink: drink, customName: nil)
         } label: {
             HStack {
                 Image(systemName: drink.symbol)
@@ -72,6 +78,9 @@ struct DrinkPickerView: View {
                 }
                 Spacer()
                 Text(drink.caffeineMg.mgText).foregroundStyle(.secondary)
+                Image(systemName: "chevron.forward")
+                    .font(.caption.weight(.semibold))
+                    .foregroundStyle(.tertiary)
             }
         }
         .tint(.primary)

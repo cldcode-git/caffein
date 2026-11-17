@@ -1,12 +1,20 @@
 {
   "strings": [
     {
+      "key": "%@ adedi",
+      "en": "Number of %@"
+    },
+    {
       "key": "%@ ekle, %lld miligram",
       "en": "Add %@, %lld milligrams"
     },
     {
       "key": "%@ eklendi · %@",
       "en": "%@ added · %@"
+    },
+    {
+      "key": "%@ silindi",
+      "en": "%@ deleted"
     },
     {
       "key": "%@ üzerinde kafein aldığın günlerde gerginlik puanın ortalama %@ puan daha yüksekti.",
@@ -47,6 +55,10 @@
     {
       "key": "%lld:%@",
       "en": "%lld:%@"
+    },
+    {
+      "key": "1 adet: %@",
+      "en": "1 serving: %@"
     },
     {
       "key": "1 bardak (150 ml)",
@@ -105,6 +117,10 @@
       "en": "Under 18: 3 mg per kg of body weight (EFSA)."
     },
     {
+      "key": "2 dakikalık nefes egzersizine başla",
+      "en": "Start the 2-minute breathing exercise"
+    },
+    {
       "key": "2 dakikalık nefes egzersizini başlat",
       "en": "Start the 2-minute breathing exercise"
     },
@@ -143,6 +159,10 @@
     {
       "key": "Acil yardım: %@",
       "en": "Emergency: %@"
+    },
+    {
+      "key": "Adedi − ve + ile değiştir. Silmek için kaydı sola kaydır.",
+      "en": "Change the count with − and +. To delete, swipe an entry left."
     },
     {
       "key": "Akıllı saat gerekmez, hesap açman gerekmez. Her şey yalnızca bu telefonda saklanır. Caffein bir sağlıklı yaşam uygulamasıdır, tıbbi cihaz değildir.",
@@ -193,6 +213,10 @@
       "en": "Start"
     },
     {
+      "key": "Belirtmek istemiyorum",
+      "en": "Prefer not to say"
+    },
+    {
       "key": "Beyaz çay",
       "en": "White tea"
     },
@@ -207,6 +231,10 @@
     {
       "key": "Bir iki bardak su iç.",
       "en": "Drink a glass or two of water."
+    },
+    {
+      "key": "Biraz yüksek",
+      "en": "A bit high"
     },
     {
       "key": "Bitter çikolata",
@@ -227,6 +255,10 @@
     {
       "key": "Bu seçimle bugünkü son kahve saatin",
       "en": "Your last coffee today with this choice"
+    },
+    {
+      "key": "Bu, yetişkinler için genel bir değer. Yaşını, kilonu ve cinsiyetini girersen değerlendirme sana göre yapılır.",
+      "en": "This is a general value for adults. Enter your age, weight and sex to get an assessment tailored to you."
     },
     {
       "key": "Bugün",
@@ -289,12 +321,32 @@
       "en": "Cafezinho"
     },
     {
+      "key": "Caffein bir sağlıklı yaşam uygulamasıdır; tıbbi cihaz değildir ve teşhis ya da tedavi amacıyla kullanılmamalıdır.",
+      "en": "Caffein is a wellness app; it is not a medical device and must not be used for diagnosis or treatment."
+    },
+    {
+      "key": "Caffein tıbbi bir cihaz değildir. Ritim bozukluğu gibi durumları tespit etmez. Sağlığınla ilgili bir endişen varsa doktoruna danış.",
+      "en": "Caffein is not a medical device. It does not detect conditions such as arrhythmia. If you have a health concern, talk to your doctor."
+    },
+    {
+      "key": "Caffein tıbbi bir cihaz değildir; ritim bozukluğunu tespit edemez.",
+      "en": "Caffein is not a medical device; it cannot detect arrhythmia."
+    },
+    {
+      "key": "Caffein, kafeinin uykuna ve gerginliğine sende nasıl etki ettiğini gösterir. Amaç kafeini yasaklamak değil, sana iyi gelen dengeyi bulmak.",
+      "en": "Caffein shows how caffeine affects your sleep and tension. The goal isn't to ban caffeine but to find the balance that works for you."
+    },
+    {
       "key": "Cappuccino",
       "en": "Cappuccino"
     },
     {
       "key": "Chai latte",
       "en": "Chai latte"
+    },
+    {
+      "key": "Cinsiyet",
+      "en": "Sex"
     },
     {
       "key": "Cold brew",
@@ -377,6 +429,10 @@
       "en": "Paused"
     },
     {
+      "key": "Dün %@ olarak kaydedilecek.",
+      "en": "Will be saved as yesterday %@."
+    },
+    {
       "key": "Ekle",
       "en": "Add"
     },
@@ -395,6 +451,10 @@
     {
       "key": "Enerji ve gazlı içecekler",
       "en": "Energy and soft drinks"
+    },
+    {
+      "key": "Erkek",
+      "en": "Male"
     },
     {
       "key": "Espresso",
@@ -489,8 +549,8 @@
       "en": "Your daily caffeine limit"
     },
     {
-      "key": "Günlük kafein sınırın yaşına ve kilona göre hesaplanır. Bu bilgiler yalnızca bu telefonda kalır.",
-      "en": "Your daily caffeine limit is based on your age and weight. This information stays on this phone."
+      "key": "Günlük kafein sınırın yaşına ve kilona, nabzının senin için yüksek olup olmadığı yaşına, kilona ve cinsiyetine göre hesaplanır. Bu bilgiler yalnızca bu telefonda kalır.",
+      "en": "Your daily caffeine limit is based on your age and weight; whether your heart rate is high for you is based on your age, weight and sex. This information stays on this phone."
     },
     {
       "key": "Günlük sınır",
@@ -555,6 +615,10 @@
     {
       "key": "Her şey yalnızca bu telefonda saklanır. Kamera görüntüsü kaydedilmez; her kareden yalnızca ortalama renk değeri alınır.",
       "en": "Everything is stored only on this phone. No camera image is saved; only the average colour of each frame is used."
+    },
+    {
+      "key": "Kadın",
+      "en": "Female"
     },
     {
       "key": "Kafein",
@@ -657,6 +721,10 @@
       "en": "On none of the logged nights did you go to bed with noticeable caffeine in your body."
     },
     {
+      "key": "Kaç tane?",
+      "en": "How many?"
+    },
+    {
       "key": "Kaçta uyandın?",
       "en": "When did you wake up?"
     },
@@ -745,6 +813,10 @@
       "en": "Measure heart rate too"
     },
     {
+      "key": "Nabzın",
+      "en": "Your heart rate"
+    },
+    {
       "key": "Nabzın %lld BPM olarak kaydedilecek.",
       "en": "Your heart rate will be saved as %lld BPM."
     },
@@ -759,6 +831,18 @@
     {
       "key": "Nabzın hemen hemen aynı kaldı. Hissettiğin rahatlama da önemli; sayı her zaman değişmeyebilir.",
       "en": "Your heart rate stayed about the same. How relaxed you feel matters too; the number doesn't always change."
+    },
+    {
+      "key": "Nabzın senin için biraz yüksek. 2 dakikalık yavaş nefes nabzını düşürmeye yardımcı olabilir.",
+      "en": "Your heart rate is a bit high for you. Two minutes of slow breathing can help bring it down."
+    },
+    {
+      "key": "Nabzın senin için normal aralıkta. Gerginlik her zaman nabza yansımaz; istersen yine de nefes egzersizi yapabilirsin.",
+      "en": "Your heart rate is in the normal range for you. Tension doesn't always show in your pulse; you can still do the breathing exercise if you like."
+    },
+    {
+      "key": "Nabzın senin için yüksek. Otur, omuzlarını bırak ve 2 dakika yavaş nefes alalım.",
+      "en": "Your heart rate is high for you. Sit down, drop your shoulders and let's breathe slowly for 2 minutes."
     },
     {
       "key": "Nabzını parmak ucundaki renk değişiminden okuyoruz. Görüntü kaydedilmez.",
@@ -785,8 +869,8 @@
       "en": "What did you drink?"
     },
     {
-      "key": "Ne kadar kafeinin sana uygun olduğu yaşına ve kilona göre değişir.",
-      "en": "How much caffeine suits you depends on your age and weight."
+      "key": "Ne zaman içtin?",
+      "en": "When did you have it?"
     },
     {
       "key": "Nefes al",
@@ -803,6 +887,10 @@
     {
       "key": "Nefes egzersizi sana iyi geliyor",
       "en": "Breathing exercises work for you"
+    },
+    {
+      "key": "Normal",
+      "en": "Normal"
     },
     {
       "key": "Oolong çayı",
@@ -839,6 +927,14 @@
     {
       "key": "Profil",
       "en": "Profile"
+    },
+    {
+      "key": "Profilin",
+      "en": "Your profile"
+    },
+    {
+      "key": "Profilini tamamla",
+      "en": "Complete your profile"
     },
     {
       "key": "Saat",
@@ -901,8 +997,16 @@
       "en": "A short, easy walk can ease the jitters."
     },
     {
+      "key": "Sana göre dinlenirken beklenen nabız yaklaşık %lld atım/dk. %lld ve üzeri biraz yüksek, %lld ve üzeri yüksek sayılır.",
+      "en": "For you, the expected resting heart rate is about %lld bpm. %lld and above counts as a bit high, %lld and above as high."
+    },
+    {
       "key": "Sana göre günlük kafein sınırı: %@",
       "en": "Your daily caffeine limit: %@"
+    },
+    {
+      "key": "Sana uygun kafein miktarı ve nabzının senin için normal aralığı yaşına, kilona ve cinsiyetine göre değişir.",
+      "en": "How much caffeine suits you, and what heart rate is normal for you, depend on your age, weight and sex."
     },
     {
       "key": "Sana özel çıkarımlar",
@@ -923,10 +1027,6 @@
     {
       "key": "Sil",
       "en": "Delete"
-    },
-    {
-      "key": "Silmek için kayda basılı tut.",
-      "en": "Touch and hold an entry to delete it."
     },
     {
       "key": "Sinyal aranıyor",
@@ -1017,6 +1117,10 @@
       "en": "Phone language"
     },
     {
+      "key": "Toplam %@",
+      "en": "Total %@"
+    },
+    {
       "key": "Tüm kayıtların yalnızca bu telefonda saklanır. Hesap yok, sunucu yok, reklam yok.",
       "en": "All your records stay on this phone. No account, no server, no ads."
     },
@@ -1075,22 +1179,6 @@
     {
       "key": "Verin sende kalır",
       "en": "Your data stays with you"
-    },
-    {
-      "key": "Caffein bir sağlıklı yaşam uygulamasıdır; tıbbi cihaz değildir ve teşhis ya da tedavi amacıyla kullanılmamalıdır.",
-      "en": "Caffein is a wellness app; it is not a medical device and must not be used for diagnosis or treatment."
-    },
-    {
-      "key": "Caffein tıbbi bir cihaz değildir. Ritim bozukluğu gibi durumları tespit etmez. Sağlığınla ilgili bir endişen varsa doktoruna danış.",
-      "en": "Caffein is not a medical device. It does not detect conditions such as arrhythmia. If you have a health concern, talk to your doctor."
-    },
-    {
-      "key": "Caffein tıbbi bir cihaz değildir; ritim bozukluğunu tespit edemez.",
-      "en": "Caffein is not a medical device; it cannot detect arrhythmia."
-    },
-    {
-      "key": "Caffein, kafeinin uykuna ve gerginliğine sende nasıl etki ettiğini gösterir. Amaç kafeini yasaklamak değil, sana iyi gelen dengeyi bulmak.",
-      "en": "Caffein shows how caffeine affects your sleep and tension. The goal isn't to ban caffeine but to find the balance that works for you."
     },
     {
       "key": "Vücudunda şu an yaklaşık %@ kafein var. Bugün için bir sonraki kahveyi atlamak gerginliğine iyi gelebilir.",
@@ -1165,8 +1253,16 @@
       "en": "Age"
     },
     {
-      "key": "Yaş ve kilo",
-      "en": "Age and weight"
+      "key": "Yaş, kilo ve cinsiyet",
+      "en": "Age, weight and sex"
+    },
+    {
+      "key": "Yaşına ve kilona göre, nüfus verilerinden hesaplanır. Cinsiyetini de girersen değerlendirme sana daha uygun olur. Tıbbi bir değerlendirme değildir.",
+      "en": "Calculated from population data for your age and weight. Adding your sex makes the assessment fit you better. This is not a medical assessment."
+    },
+    {
+      "key": "Yaşına, kilona ve cinsiyetine göre, nüfus verilerinden hesaplanır. Tıbbi bir değerlendirme değildir.",
+      "en": "Calculated from population data for your age, weight and sex. This is not a medical assessment."
     },
     {
       "key": "Yaşını ve kilonu gir, sınırı sana göre hesaplayalım",
@@ -1193,12 +1289,20 @@
       "en": "If it still feels good it's worth keeping up; you could try it at different times of day."
     },
     {
+      "key": "Yine de nefes egzersizi yap",
+      "en": "Do the breathing exercise anyway"
+    },
+    {
       "key": "Yoğun kafein günlerinin ertesi sabahı nabzın daha yüksek",
       "en": "Your heart rate is higher the morning after heavy caffeine days"
     },
     {
       "key": "Yüksek",
       "en": "High"
+    },
+    {
+      "key": "atım/dk",
+      "en": "bpm"
     },
     {
       "key": "bugün için kalmadı",
@@ -1267,6 +1371,10 @@
     {
       "key": "son gerginlik puanın %lld/5",
       "en": "latest tension rating %lld/5"
+    },
+    {
+      "key": "sonra",
+      "en": "after"
     },
     {
       "key": "sınırı aşan gün",
@@ -1373,6 +1481,10 @@
       "en": "not measured"
     },
     {
+      "key": "önce",
+      "en": "before"
+    },
+    {
       "key": "İdare eder",
       "en": "OK"
     },
@@ -1417,6 +1529,10 @@
       "en": "Now"
     },
     {
+      "key": "Şimdi değil",
+      "en": "Not now"
+    },
+    {
       "key": "Şimdi tekrar ölçelim. Parmağını kameraya hafifçe koy.",
       "en": "Now let's measure again. Rest your finger gently on the camera."
     },
@@ -1448,8 +1564,8 @@
   "infoplist": [
     {
       "key": "CFBundleDisplayName",
-      "tr": "Caffein",
-      "en": "Caffein"
+      "tr": "Caffein - Track Your Daily Caffeine Consumption",
+      "en": "Caffein - Track Your Daily Caffeine Consumption"
     },
     {
       "key": "NSCameraUsageDescription",

@@ -15,7 +15,7 @@ Uygulama mağazaya çıkmadan üç yerde test edilir:
 1. `Caffein.xcodeproj` dosyasını Xcode ile aç, bir iPhone simülatörü seç, ▶ (⌘R).
 2. Simülatörde kamera olmadığı için nabız ölçümleri sahte bir 72 BPM sinyaliyle çalışır: 1 sn sonra parmak "konmuş" sayılır. Ekranları ve akışları denemek için yeterlidir; doğruluk telefonda test edilir.
 
-**Birim testleri:** ⌘U (43 test: nabız algoritması + kafein modeli + yaş/kilo sınırı + su önerisi + gerginlik + uyku süresi + çıkarımlar).
+**Birim testleri:** ⌘U (49 test: nabız algoritması + kafein modeli + yaş/kilo sınırı + kişiye göre nabız aralığı + su önerisi + gerginlik + uyku süresi + çıkarımlar).
 
 ## 2. Kendi iPhone'un
 
@@ -58,8 +58,12 @@ Referans: Apple Watch, parmak oksimetresi ya da 30 sn bilekten sayıp 2 ile çar
 - [ ] Son kahve saati makul (23:00 yatış, ortalama süre → öğleden sonra)
 - [ ] Son kahve saati varsa grafikte o saatte kesikli turuncu çizgi ve fincan + saat etiketi
 - [ ] Yatarken eşik aşılacaksa "Bugün için kafeini burada bırak" mesajı, eşiğin altına ineceği saatle ("yarın 10:10" gibi); grafikte o saatte kesikli mavi çizgi ve ay + saat etiketi
-- [ ] Hızlı ekleme: tek dokunuş ekler, "Geri al" çalışır, liste ve ilerleme çubuğu güncellenir
-- [ ] Kayda basılı tutunca "Sil"
+- [ ] Hızlı ekleme ya da listeden bir içecek seçince ekleme formu açılıyor: adet (varsayılan 1, − ve + ile, en fazla 10) ve toplam mg; saat varsayılanı "Şimdi"
+- [ ] Saat seçilince "Şimdi" seçimi kalkıyor; "Şimdi"ye dokununca saat şimdiye dönüyor; şimdiden sonraki bir saat (örn. 01:00'de 23:30) dünün tarihine yazılıyor ve formda "Dün … olarak kaydedilecek" notu çıkıyor
+- [ ] "Ekle" sonrası "2 × … eklendi · … mg · Geri al" bildirimi, liste ve ilerleme çubuğu güncellenir
+- [ ] Kayıtlı içecekte adet kutucuğu (− sayı +): + adedi artırır, − azaltır, 1'in altına inince kayıt silinir ve "Geri al" bildirimi çıkar
+- [ ] Görünür çöp kutusu yok; kaydı sola kaydırınca kırmızı sil butonu açılıyor; butona dokunmak ya da uzun kaydırmak siliyor; satıra dokununca kapanıyor (Arapçada sağa kaydırma)
+- [ ] Kayda basılı tutunca da "Sil"; VoiceOver'da satırın "Sil" eylemi var
 - [ ] "Ne içtin?" başlığına (+ simgesine) ya da "Diğer"e dokununca aynı liste açılıyor: gruplu liste (Kahveler, Çaylar, Matcha ve mate, Enerji ve gazlı, Diğer), arama, özel içecek (ad + mg)
 - [ ] Kapsül kahve listede; 3'ü 1 arada yok
 - [ ] Yaş/kilo sınırı: %80'e gelince ya da genelde içilen içecek aşacaksa grafiğin altında "yaklaşıyorsun" (kalan mg ile), aşınca kırmızı uyarı + Çarpıntı rehberi bağlantısı
@@ -81,9 +85,14 @@ Referans: Apple Watch, parmak oksimetresi ya da 30 sn bilekten sayıp 2 ile çar
 - [ ] Sağlık açıksa nabız Apple Sağlık'ta görünüyor
 
 ### Gerginim
-- [ ] 30 sn ölçüm → 2 dk nefes (4 sn al / 6 sn ver, geri sayım, Atla) → 30 sn ölçüm → önce/sonra
+- [ ] 30 sn ölçümden sonra sonuç ekranı: büyük sayı, "Normal / Biraz yüksek / Yüksek" etiketi, renkli aralık çubuğu, kişiye göre beklenen nabız ve sınırlar
+- [ ] Simülatörde farklı nabız denemek için uygulamayı `-simulatorBPM 95` argümanıyla başlat (30 yaş, 62 kg kadın için 95 = biraz yüksek, 100 = yüksek, 72 = normal)
+- [ ] Normal: "Bitti" ana buton, "Yine de nefes egzersizi yap" ikincil
+- [ ] Biraz yüksek / yüksek: "2 dakikalık nefes egzersizine başla" ana buton, "Şimdi değil" ikincil; yüksekte çarpıntı rehberi bağlantısı
+- [ ] Profil eksikse genel değer notu ve "Profilini tamamla"; cinsiyet girilmemişse ona dair not
+- [ ] Nefes (4 sn al / 6 sn ver, geri sayım, Atla) → 30 sn ölçüm → önce/sonra, her biri seviye etiketiyle
 - [ ] Nefes evrelerinde hafif titreşim
-- [ ] Nabız ≥100 ya da vücutta ≥200 mg kafein varsa çarpıntı rehberi bağlantısı
+- [ ] Sonra ölçümü yüksekse ya da vücutta ≥200 mg kafein varsa çarpıntı rehberi bağlantısı
 
 ### Haftam
 - [ ] Özet kartı 6 değer (ortalama uyku süresi dahil); paylaş butonu görsel üretiyor

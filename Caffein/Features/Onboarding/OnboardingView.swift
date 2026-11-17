@@ -8,10 +8,12 @@ struct OnboardingView: View {
     @AppStorage(SettingsKey.profileAge) private var storedAge = 0
     @AppStorage(SettingsKey.profileWeight) private var storedWeight = 0.0
     @AppStorage(SettingsKey.pregnant) private var storedPregnant = false
+    @AppStorage(SettingsKey.sex) private var storedSex = BiologicalSex.unspecified.rawValue
 
     @State private var age = 30
     @State private var weight = 70
     @State private var pregnant = false
+    @State private var sex = BiologicalSex.unspecified
 
     private let lastPage = 4
 
@@ -43,6 +45,7 @@ struct OnboardingView: View {
                     storedAge = age
                     storedWeight = Double(weight)
                     storedPregnant = pregnant
+                    storedSex = sex.rawValue
                     onFinish()
                 }
             }
@@ -62,11 +65,11 @@ struct OnboardingView: View {
                     .padding(.top, 24)
                 Text("Seni tanıyalım")
                     .font(.title2.weight(.semibold))
-                Text("Ne kadar kafeinin sana uygun olduğu yaşına ve kilona göre değişir.")
+                Text("Sana uygun kafein miktarı ve nabzının senin için normal aralığı yaşına, kilona ve cinsiyetine göre değişir.")
                     .font(.subheadline)
                     .foregroundStyle(.secondary)
                     .multilineTextAlignment(.center)
-                ProfileFields(age: $age, weight: $weight, pregnant: $pregnant)
+                ProfileFields(age: $age, weight: $weight, pregnant: $pregnant, sex: $sex)
             }
             .padding(.horizontal, 24)
             .padding(.bottom, 40)

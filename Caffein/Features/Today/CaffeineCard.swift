@@ -237,6 +237,7 @@ struct QuickAddCard: View {
     let drinks: [Drink]
     let todayIntakes: [CaffeineIntake]
     let add: (Drink) -> Void
+    let changeServings: (CaffeineIntake, Int) -> Void
     let delete: (CaffeineIntake) -> Void
     let more: () -> Void
 
@@ -280,23 +281,35 @@ struct QuickAddCard: View {
             if !todayIntakes.isEmpty {
                 VStack(spacing: 0) {
                     ForEach(todayIntakes) { intake in
-                        HStack {
-                            Image(systemName: intake.symbol)
-                                .foregroundStyle(Theme.caffeine)
-                                .frame(width: 24)
-                            Text(DrinkText.displayName(intake)).font(.subheadline)
-                            Spacer()
-                            Text(intake.caffeineMg.mgText).font(.subheadline).foregroundStyle(.secondary)
-                            Text(intake.date.clockText).font(.subheadline.monospacedDigit()).foregroundStyle(.secondary)
+                        SwipeToDeleteRow(onDelete: { delete(intake) }) {
+                            HStack(spacing: 10) {
+                                Image(systemName: intake.symbol)
+                                    .foregroundStyle(Theme.caffeine)
+                                    .frame(width: 24)
+                                VStack(alignment: .leading, spacing: 2) {
+                                    Text(DrinkText.displayName(intake))
+                                        .font(.subheadline)
+                                        .lineLimit(1)
+                                    Text(verbatim: intake.date.clockText + " · " + intake.totalMg.mgText)
+                                        .font(.caption.monospacedDigit())
+                                        .foregroundStyle(.secondary)
+                                        .contentTransition(.numericText())
+                                }
+                                Spacer(minLength: 8)
+                                CountStepper(value: intake.servings, minimum: 0,
+                                             accessibilityName: DrinkText.displayName(intake),
+                                             decrement: { changeServings(intake, -1) },
+                                             increment: { changeServings(intake, 1) })
+                            }
+                            .padding(.vertical, 4)
                         }
-                        .padding(.vertical, 8)
                         .contextMenu {
                             Button("Sil", systemImage: "trash", role: .destructive) { delete(intake) }
                         }
                         if intake.id != todayIntakes.last?.id { Divider() }
                     }
                 }
-                Text("Silmek için kayda basılı tut.")
+                Text("Adedi − ve + ile değiştir. Silmek için kaydı sola kaydır.")
                     .font(.caption2)
                     .foregroundStyle(.tertiary)
             }

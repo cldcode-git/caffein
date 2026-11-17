@@ -14,6 +14,8 @@ enum SettingsKey {
     /// Kilograms; 0 until the user enters it.
     static let profileWeight = "profileWeight"
     static let pregnant = "pregnantOrBreastfeeding"
+    /// A `BiologicalSex` raw value; "unspecified" until the user chooses.
+    static let sex = "profileSex"
     static let morningReminder = "morningReminder"
     static let morningReminderMinutes = "morningReminderMinutes"
     static let weeklyReminder = "weeklyReminder"
@@ -29,6 +31,7 @@ enum AppDefaults {
             SettingsKey.profileAge: 0,
             SettingsKey.profileWeight: 0.0,
             SettingsKey.pregnant: false,
+            SettingsKey.sex: BiologicalSex.unspecified.rawValue,
             SettingsKey.sensitivity: CaffeineSensitivity.normal.rawValue,
             SettingsKey.morningReminder: false,
             SettingsKey.morningReminderMinutes: 7 * 60 + 30,
@@ -51,13 +54,17 @@ struct CaffeinePreferences {
             sensitivity: CaffeineSensitivity(rawValue: d.string(forKey: SettingsKey.sensitivity) ?? "") ?? .normal,
             profile: profile(age: d.integer(forKey: SettingsKey.profileAge),
                              weight: d.double(forKey: SettingsKey.profileWeight),
-                             pregnant: d.bool(forKey: SettingsKey.pregnant))
+                             pregnant: d.bool(forKey: SettingsKey.pregnant),
+                             sex: BiologicalSex(rawValue: d.string(forKey: SettingsKey.sex) ?? "") ?? .unspecified)
         )
     }
 
-    static func profile(age: Int, weight: Double, pregnant: Bool) -> CaffeineProfile? {
+    /// Sex doesn't change the caffeine limit, so screens that only show the
+    /// limit can leave it out.
+    static func profile(age: Int, weight: Double, pregnant: Bool,
+                        sex: BiologicalSex = .unspecified) -> CaffeineProfile? {
         guard age > 0, weight > 0 else { return nil }
-        return CaffeineProfile(age: age, weightKg: weight, pregnantOrBreastfeeding: pregnant)
+        return CaffeineProfile(age: age, weightKg: weight, pregnantOrBreastfeeding: pregnant, sex: sex)
     }
 
     var model: CaffeineModel { CaffeineModel(sensitivity: sensitivity) }

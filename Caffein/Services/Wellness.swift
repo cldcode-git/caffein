@@ -18,7 +18,7 @@ enum Wellness {
     }
 
     static func doses(_ intakes: [CaffeineIntake]) -> [CaffeineDose] {
-        intakes.map { CaffeineDose(time: $0.date, milligrams: $0.caffeineMg) }
+        intakes.map { CaffeineDose(time: $0.date, milligrams: $0.totalMg) }
     }
 
     static func todayIntakes(_ intakes: [CaffeineIntake], now: Date = Date()) -> [CaffeineIntake] {
@@ -45,7 +45,7 @@ enum Wellness {
         let dayStart = DayClock.dayStart(for: now)
         let bedtime = DayClock.bedtime(forDayStarting: dayStart, minutes: prefs.bedtimeMinutes)
         let typical = typicalDose(intakes, now: now)
-        let todayTotal = todayIntakes(intakes, now: now).map(\.caffeineMg).reduce(0, +)
+        let todayTotal = todayIntakes(intakes, now: now).map(\.totalMg).reduce(0, +)
 
         let lastCup = model.latestIntakeTime(existing: relevant, nextDoseMg: typical,
                                              bedtime: bedtime, earliest: dayStart)
@@ -154,7 +154,7 @@ enum Wellness {
 
             return DaySummary(
                 day: start,
-                caffeineMg: dayIntakes.map(\.caffeineMg).reduce(0, +),
+                caffeineMg: dayIntakes.map(\.totalMg).reduce(0, +),
                 lastIntake: dayIntakes.map(\.date).max(),
                 bedtimeLevelMg: isPastNight && !dayIntakes.isEmpty
                     ? model.peakDuringSleep(dosesUntilBed, bedtime: bedtime) : nil,

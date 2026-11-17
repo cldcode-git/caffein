@@ -1,6 +1,88 @@
 {
   "sourceLanguage": "tr",
   "strings": {
+    "%@ adedi": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Number of %@"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ adedi"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "عدد %@"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@-এর সংখ্যা"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anzahl %@"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cantidad de %@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nombre de %@"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ की संख्या"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jumlah %@"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@の数"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quantidade de %@"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Количество: %@"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@数量"
+          }
+        }
+      }
+    },
     "%@ ekle, %lld miligram": {
       "localizations": {
         "en": {
@@ -161,6 +243,88 @@
           "stringUnit": {
             "state": "translated",
             "value": "已添加%@ · %@"
+          }
+        }
+      }
+    },
+    "%@ silindi": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ deleted"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ silindi"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم حذف %@"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ মুছে ফেলা হয়েছে"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ gelöscht"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se eliminó %@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Supprimé : %@"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ हटा दिया गया"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ dihapus"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@を削除しました"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Excluído: %@"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Удалено: %@"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已删除%@"
           }
         }
       }
@@ -981,6 +1145,88 @@
           "stringUnit": {
             "state": "translated",
             "value": "%lld:%@"
+          }
+        }
+      }
+    },
+    "1 adet: %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 serving: %@"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 adet: %@"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "حصة واحدة: %@"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 সার্ভিং: %@"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 Portion: %@"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 porción: %@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 portion : %@"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 सर्विंग: %@"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 porsi: %@"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1杯: %@"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 porção: %@"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 порция: %@"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1份：%@"
           }
         }
       }
@@ -2133,6 +2379,88 @@
         }
       }
     },
+    "2 dakikalık nefes egzersizine başla": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start the 2-minute breathing exercise"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2 dakikalık nefes egzersizine başla"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ابدأ تمرين التنفس لمدة دقيقتين"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2 মিনিটের শ্বাসের ব্যায়াম শুরু করুন"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2-minütige Atemübung starten"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empezar el ejercicio de respiración de 2 minutos"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lancer l'exercice de respiration de 2 minutes"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2 मिनट का साँस का अभ्यास शुरू करें"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mulai latihan napas 2 menit"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2分間の呼吸エクササイズを始める"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Começar o exercício de respiração de 2 minutos"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Начать 2-минутное дыхательное упражнение"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "开始2分钟呼吸练习"
+          }
+        }
+      }
+    },
     "2 dakikalık nefes egzersizini başlat": {
       "localizations": {
         "en": {
@@ -2949,6 +3277,88 @@
           "stringUnit": {
             "state": "translated",
             "value": "紧急求助：%@"
+          }
+        }
+      }
+    },
+    "Adedi − ve + ile değiştir. Silmek için kaydı sola kaydır.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Change the count with − and +. To delete, swipe an entry left."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Adedi − ve + ile değiştir. Silmek için kaydı sola kaydır."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "غيّر العدد باستخدام − و+. للحذف، اسحب الإدخال إلى اليمين."
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "− ও + দিয়ে সংখ্যা বদলান। মুছতে কোনো এন্ট্রি বাঁ দিকে সোয়াইপ করুন।"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ändere die Anzahl mit − und +. Zum Löschen einen Eintrag nach links wischen."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cambia la cantidad con − y +. Para eliminar, desliza un registro hacia la izquierda."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modifie le nombre avec − et +. Pour supprimer, fais glisser une entrée vers la gauche."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "संख्या − और + से बदलें। डिलीट करने के लिए एंट्री को बाईं ओर स्वाइप करें।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ubah jumlah dengan − dan +. Untuk menghapus, geser catatan ke kiri."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "数は − と + で変更できます。削除するには、記録を左にスワイプします。"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Altere a quantidade com − e +. Para apagar, deslize um registro para a esquerda."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Меняй количество кнопками − и +. Чтобы удалить запись, смахни её влево."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "用 − 和 + 修改数量。要删除，请将记录向左滑动。"
           }
         }
       }
@@ -3937,6 +4347,88 @@
         }
       }
     },
+    "Belirtmek istemiyorum": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prefer not to say"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Belirtmek istemiyorum"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "أفضّل عدم الإفصاح"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "জানাতে চাই না"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine Angabe"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prefiero no decirlo"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je préfère ne pas le dire"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "नहीं बताना चाहते"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tidak ingin menyebutkan"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "回答しない"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prefiro não dizer"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не указывать"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不愿透露"
+          }
+        }
+      }
+    },
     "Beyaz çay": {
       "localizations": {
         "en": {
@@ -4261,6 +4753,88 @@
           "stringUnit": {
             "state": "translated",
             "value": "喝一两杯水。"
+          }
+        }
+      }
+    },
+    "Biraz yüksek": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A bit high"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Biraz yüksek"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مرتفع قليلًا"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "একটু বেশি"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Etwas erhöht"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Algo alto"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un peu élevé"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "थोड़ी ज़्यादा"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Agak tinggi"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "やや高め"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Um pouco elevada"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Немного повышен"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "略高"
           }
         }
       }
@@ -4671,6 +5245,88 @@
           "stringUnit": {
             "state": "translated",
             "value": "按此选择，今天最后一杯咖啡的时间"
+          }
+        }
+      }
+    },
+    "Bu, yetişkinler için genel bir değer. Yaşını, kilonu ve cinsiyetini girersen değerlendirme sana göre yapılır.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This is a general value for adults. Enter your age, weight and sex to get an assessment tailored to you."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu, yetişkinler için genel bir değer. Yaşını, kilonu ve cinsiyetini girersen değerlendirme sana göre yapılır."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "هذه قيمة عامة للبالغين. أدخل عمرك ووزنك وجنسك ليكون التقييم مناسبًا لك."
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "এটি প্রাপ্তবয়স্কদের জন্য একটি সাধারণ মান। আপনার বয়স, ওজন ও লিঙ্গ দিলে মূল্যায়ন আপনার জন্য করা হবে।"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das ist ein allgemeiner Wert für Erwachsene. Gib dein Alter, Gewicht und Geschlecht ein, damit die Einschätzung zu dir passt."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Es un valor general para adultos. Si introduces tu edad, peso y sexo, la valoración se ajustará a ti."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "C'est une valeur générale pour les adultes. Indique ton âge, ton poids et ton sexe pour une évaluation adaptée à toi."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "यह वयस्कों के लिए एक सामान्य मान है। अपनी उम्र, वज़न और लिंग दर्ज करें, तो आकलन आपके अनुसार होगा।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ini nilai umum untuk orang dewasa. Masukkan usia, berat badan, dan jenis kelaminmu agar penilaiannya sesuai untukmu."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "これは成人向けの一般的な値です。年齢・体重・性別を入力すると、あなたに合わせて判定します。"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este é um valor geral para adultos. Informe sua idade, peso e sexo para uma avaliação feita para você."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Это общее значение для взрослых. Укажи возраст, вес и пол, чтобы оценка была персональной."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这是成人的一般参考值。填写年龄、体重和性别后，评估会更贴合你。"
           }
         }
       }
@@ -6397,6 +7053,88 @@
         }
       }
     },
+    "Cinsiyet": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sex"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cinsiyet"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الجنس"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "লিঙ্গ"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geschlecht"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sexo"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sexe"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "लिंग"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jenis kelamin"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "性別"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sexo"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Пол"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "性别"
+          }
+        }
+      }
+    },
     "Cold brew": {
       "localizations": {
         "en": {
@@ -8037,6 +8775,88 @@
         }
       }
     },
+    "Dün %@ olarak kaydedilecek.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Will be saved as yesterday %@."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dün %@ olarak kaydedilecek."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "سيُحفظ على أنه أمس الساعة %@."
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "এটি গতকাল %@ হিসেবে সংরক্ষিত হবে।"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wird als gestern %@ gespeichert."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se guardará como ayer a las %@."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sera enregistré pour hier à %@."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "इसे कल %@ के रूप में सहेजा जाएगा।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Akan disimpan sebagai kemarin pukul %@."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "昨日の%@として記録されます。"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Será salvo como ontem às %@."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Будет сохранено как вчера в %@."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "将记录为昨天%@。"
+          }
+        }
+      }
+    },
     "Ekle": {
       "localizations": {
         "en": {
@@ -8443,6 +9263,88 @@
           "stringUnit": {
             "state": "translated",
             "value": "能量饮料和汽水"
+          }
+        }
+      }
+    },
+    "Erkek": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Male"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erkek"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ذكر"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "পুরুষ"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Männlich"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hombre"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Homme"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "पुरुष"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Laki-laki"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "男性"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Homem"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Мужской"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "男"
           }
         }
       }
@@ -10333,84 +11235,84 @@
         }
       }
     },
-    "Günlük kafein sınırın yaşına ve kilona göre hesaplanır. Bu bilgiler yalnızca bu telefonda kalır.": {
+    "Günlük kafein sınırın yaşına ve kilona, nabzının senin için yüksek olup olmadığı yaşına, kilona ve cinsiyetine göre hesaplanır. Bu bilgiler yalnızca bu telefonda kalır.": {
       "localizations": {
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "Your daily caffeine limit is based on your age and weight. This information stays on this phone."
+            "value": "Your daily caffeine limit is based on your age and weight; whether your heart rate is high for you is based on your age, weight and sex. This information stays on this phone."
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Günlük kafein sınırın yaşına ve kilona göre hesaplanır. Bu bilgiler yalnızca bu telefonda kalır."
+            "value": "Günlük kafein sınırın yaşına ve kilona, nabzının senin için yüksek olup olmadığı yaşına, kilona ve cinsiyetine göre hesaplanır. Bu bilgiler yalnızca bu telefonda kalır."
           }
         },
         "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "يُحسب حدّك اليومي من الكافيين حسب عمرك ووزنك. تبقى هذه المعلومات على هذا الهاتف فقط."
+            "value": "يُحسب حدّك اليومي من الكافيين حسب عمرك ووزنك، ويُحدَّد ما إذا كان نبضك مرتفعًا بالنسبة لك حسب عمرك ووزنك وجنسك. تبقى هذه المعلومات على هذا الهاتف فقط."
           }
         },
         "bn": {
           "stringUnit": {
             "state": "translated",
-            "value": "আপনার দৈনিক ক্যাফেইন সীমা আপনার বয়স আর ওজনের ভিত্তিতে ঠিক হয়। এই তথ্য শুধু এই ফোনেই থাকে।"
+            "value": "আপনার দৈনিক ক্যাফেইন সীমা বয়স ও ওজন থেকে, আর আপনার হার্ট রেট আপনার জন্য বেশি কি না তা বয়স, ওজন ও লিঙ্গ থেকে হিসাব করা হয়। এই তথ্য শুধু এই ফোনেই থাকে।"
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Dein Koffein-Tageslimit richtet sich nach Alter und Gewicht. Diese Angaben bleiben nur auf diesem Handy."
+            "value": "Dein tägliches Koffeinlimit richtet sich nach Alter und Gewicht, ob dein Puls für dich hoch ist, nach Alter, Gewicht und Geschlecht. Diese Angaben bleiben auf diesem Telefon."
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Tu límite diario de cafeína se calcula según tu edad y peso. Estos datos se quedan solo en este teléfono."
+            "value": "Tu límite diario de cafeína se calcula según tu edad y peso; si tu pulso es alto para ti, según tu edad, peso y sexo. Estos datos se quedan en este teléfono."
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ta limite quotidienne de caféine dépend de ton âge et de ton poids. Ces informations restent uniquement sur ce téléphone."
+            "value": "Ta limite quotidienne de caféine dépend de ton âge et de ton poids ; savoir si ton pouls est élevé pour toi dépend de ton âge, de ton poids et de ton sexe. Ces informations restent sur ce téléphone."
           }
         },
         "hi": {
           "stringUnit": {
             "state": "translated",
-            "value": "आपकी दैनिक कैफ़ीन सीमा आपकी उम्र और वज़न के आधार पर तय होती है। यह जानकारी सिर्फ़ इसी फ़ोन पर रहती है।"
+            "value": "आपकी रोज़ की कैफ़ीन सीमा उम्र और वज़न से तय होती है, और आपकी धड़कन आपके लिए ज़्यादा है या नहीं, यह उम्र, वज़न और लिंग से। यह जानकारी सिर्फ़ इसी फ़ोन में रहती है।"
           }
         },
         "id": {
           "stringUnit": {
             "state": "translated",
-            "value": "Batas kafein harianmu dihitung berdasarkan usia dan berat badan. Informasi ini hanya disimpan di ponsel ini."
+            "value": "Batas kafein harianmu dihitung dari usia dan berat badan; apakah detak jantungmu tinggi untukmu dihitung dari usia, berat badan, dan jenis kelamin. Data ini hanya tersimpan di ponsel ini."
           }
         },
         "ja": {
           "stringUnit": {
             "state": "translated",
-            "value": "1日のカフェイン上限は年齢と体重から計算します。この情報はこのiPhoneの中だけに保存されます。"
+            "value": "1日のカフェイン上限は年齢と体重から、心拍数があなたにとって高いかどうかは年齢・体重・性別から計算します。この情報はこのスマートフォンだけに保存されます。"
           }
         },
         "pt": {
           "stringUnit": {
             "state": "translated",
-            "value": "Seu limite diário de cafeína é calculado pela sua idade e peso. Esses dados ficam só neste celular."
+            "value": "Seu limite diário de cafeína é calculado pela idade e pelo peso; se sua frequência cardíaca está alta para você, pela idade, peso e sexo. Esses dados ficam só neste telefone."
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Дневной лимит кофеина рассчитывается по возрасту и весу. Эти данные остаются только на этом телефоне."
+            "value": "Дневной лимит кофеина рассчитывается по возрасту и весу, а высокий ли у тебя пульс — по возрасту, весу и полу. Эти данные остаются только на этом телефоне."
           }
         },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "你的每日咖啡因上限根据年龄和体重计算。这些信息只保存在这部手机上。"
+            "value": "每日咖啡因上限根据年龄和体重计算；心率对你来说是否偏高，则根据年龄、体重和性别判断。这些信息只保存在这部手机上。"
           }
         }
       }
@@ -11723,6 +12625,88 @@
           "stringUnit": {
             "state": "translated",
             "value": "所有数据只保存在这部手机上。不会保存摄像头画面；每一帧只取其平均颜色值。"
+          }
+        }
+      }
+    },
+    "Kadın": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Female"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kadın"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "أنثى"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "নারী"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weiblich"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mujer"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Femme"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "महिला"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Perempuan"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "女性"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mulher"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Женский"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "女"
           }
         }
       }
@@ -13777,6 +14761,88 @@
         }
       }
     },
+    "Kaç tane?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "How many?"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kaç tane?"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "كم عددها؟"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "কয়টি?"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wie viele?"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¿Cuántos?"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Combien ?"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "कितने?"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Berapa banyak?"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "いくつ？"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quantos?"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сколько?"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "几份？"
+          }
+        }
+      }
+    },
     "Kaçta uyandın?": {
       "localizations": {
         "en": {
@@ -15581,6 +16647,88 @@
         }
       }
     },
+    "Nabzın": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your heart rate"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nabzın"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "نبضك"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "আপনার হার্ট রেট"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Puls"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tu pulso"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ton pouls"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "आपकी धड़कन"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Detak jantungmu"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "心拍数"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sua frequência cardíaca"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Твой пульс"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你的心率"
+          }
+        }
+      }
+    },
     "Nabzın %lld BPM olarak kaydedilecek.": {
       "localizations": {
         "en": {
@@ -15905,6 +17053,252 @@
           "stringUnit": {
             "state": "translated",
             "value": "你的心率基本没变。你感受到的放松同样重要；数字不一定每次都会变化。"
+          }
+        }
+      }
+    },
+    "Nabzın senin için biraz yüksek. 2 dakikalık yavaş nefes nabzını düşürmeye yardımcı olabilir.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your heart rate is a bit high for you. Two minutes of slow breathing can help bring it down."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nabzın senin için biraz yüksek. 2 dakikalık yavaş nefes nabzını düşürmeye yardımcı olabilir."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "نبضك مرتفع قليلًا بالنسبة لك. دقيقتان من التنفس البطيء قد تساعدان على خفضه."
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "আপনার হার্ট রেট আপনার জন্য একটু বেশি। 2 মিনিট ধীরে শ্বাস নিলে এটি কমাতে সাহায্য করতে পারে।"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Puls ist für dich etwas erhöht. Zwei Minuten langsames Atmen können helfen, ihn zu senken."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tu pulso está algo alto para ti. Dos minutos de respiración lenta pueden ayudar a bajarlo."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ton pouls est un peu élevé pour toi. Deux minutes de respiration lente peuvent aider à le faire baisser."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "आपकी धड़कन आपके लिए थोड़ी ज़्यादा है। 2 मिनट धीमी साँस लेना इसे कम करने में मदद कर सकता है।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Detak jantungmu agak tinggi untukmu. Dua menit bernapas pelan bisa membantu menurunkannya."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "心拍数があなたにとってやや高めです。2分間ゆっくり呼吸すると下げる助けになります。"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sua frequência cardíaca está um pouco alta para você. Dois minutos de respiração lenta podem ajudar a baixá-la."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Пульс для тебя немного повышен. Две минуты медленного дыхания могут помочь его снизить."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你的心率对你来说略高。慢呼吸2分钟有助于让它降下来。"
+          }
+        }
+      }
+    },
+    "Nabzın senin için normal aralıkta. Gerginlik her zaman nabza yansımaz; istersen yine de nefes egzersizi yapabilirsin.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your heart rate is in the normal range for you. Tension doesn't always show in your pulse; you can still do the breathing exercise if you like."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nabzın senin için normal aralıkta. Gerginlik her zaman nabza yansımaz; istersen yine de nefes egzersizi yapabilirsin."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "نبضك ضمن المعدل الطبيعي بالنسبة لك. لا يظهر التوتر دائمًا في النبض، ويمكنك مع ذلك أداء تمرين التنفس إن أردت."
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "আপনার হার্ট রেট আপনার জন্য স্বাভাবিক সীমায় আছে। টেনশন সবসময় হার্ট রেটে দেখা যায় না; চাইলে তবুও শ্বাসের ব্যায়াম করতে পারেন।"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Puls liegt für dich im normalen Bereich. Anspannung zeigt sich nicht immer im Puls; du kannst die Atemübung trotzdem machen."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tu pulso está en el rango normal para ti. La tensión no siempre se refleja en el pulso; si quieres, puedes hacer igualmente el ejercicio de respiración."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ton pouls est dans la plage normale pour toi. La tension ne se voit pas toujours dans le pouls ; tu peux quand même faire l'exercice de respiration."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "आपकी धड़कन आपके लिए सामान्य सीमा में है। तनाव हमेशा धड़कन में नहीं दिखता; चाहें तो फिर भी साँस का अभ्यास कर सकते हैं।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Detak jantungmu dalam rentang normal untukmu. Ketegangan tidak selalu terlihat di detak jantung; kamu tetap bisa melakukan latihan napas jika mau."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "心拍数はあなたにとって正常な範囲です。緊張がいつも心拍に表れるとは限りません。よければ呼吸エクササイズもできます。"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sua frequência cardíaca está na faixa normal para você. A tensão nem sempre aparece no pulso; se quiser, você pode fazer o exercício de respiração mesmo assim."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Пульс в норме для тебя. Напряжение не всегда отражается на пульсе; при желании всё равно можно сделать дыхательное упражнение."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你的心率在你的正常范围内。紧张并不总会体现在心率上；如果愿意，你仍然可以做呼吸练习。"
+          }
+        }
+      }
+    },
+    "Nabzın senin için yüksek. Otur, omuzlarını bırak ve 2 dakika yavaş nefes alalım.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your heart rate is high for you. Sit down, drop your shoulders and let's breathe slowly for 2 minutes."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nabzın senin için yüksek. Otur, omuzlarını bırak ve 2 dakika yavaş nefes alalım."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "نبضك مرتفع بالنسبة لك. اجلس وأرخِ كتفيك، ولنتنفس ببطء لمدة دقيقتين."
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "আপনার হার্ট রেট আপনার জন্য বেশি। বসুন, কাঁধ ঢিলে করুন, আর চলুন 2 মিনিট ধীরে শ্বাস নিই।"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Puls ist für dich hoch. Setz dich, lass die Schultern sinken, und lass uns 2 Minuten langsam atmen."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tu pulso está alto para ti. Siéntate, relaja los hombros y respiremos despacio durante 2 minutos."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ton pouls est élevé pour toi. Assieds-toi, relâche les épaules et respirons lentement pendant 2 minutes."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "आपकी धड़कन आपके लिए ज़्यादा है। बैठ जाइए, कंधे ढीले छोड़िए और 2 मिनट धीरे-धीरे साँस लेते हैं।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Detak jantungmu tinggi untukmu. Duduklah, lemaskan bahu, dan mari bernapas pelan selama 2 menit."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "心拍数があなたにとって高めです。座って肩の力を抜き、2分間ゆっくり呼吸しましょう。"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sua frequência cardíaca está alta para você. Sente-se, solte os ombros e vamos respirar devagar por 2 minutos."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Пульс для тебя высокий. Сядь, опусти плечи, и давай 2 минуты медленно подышим."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你的心率对你来说偏高。坐下来，放松肩膀，我们一起慢慢呼吸2分钟。"
           }
         }
       }
@@ -16401,84 +17795,84 @@
         }
       }
     },
-    "Ne kadar kafeinin sana uygun olduğu yaşına ve kilona göre değişir.": {
+    "Ne zaman içtin?": {
       "localizations": {
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "How much caffeine suits you depends on your age and weight."
+            "value": "When did you have it?"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ne kadar kafeinin sana uygun olduğu yaşına ve kilona göre değişir."
+            "value": "Ne zaman içtin?"
           }
         },
         "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "تعتمد كمية الكافيين المناسبة لك على عمرك ووزنك."
+            "value": "متى شربته؟"
           }
         },
         "bn": {
           "stringUnit": {
             "state": "translated",
-            "value": "আপনার জন্য কতটা ক্যাফেইন ঠিক, তা আপনার বয়স আর ওজনের ওপর নির্ভর করে।"
+            "value": "কখন পান করেছেন?"
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Wie viel Koffein dir guttut, hängt von deinem Alter und Gewicht ab."
+            "value": "Wann hast du es getrunken?"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "La cantidad de cafeína adecuada para ti depende de tu edad y tu peso."
+            "value": "¿Cuándo lo tomaste?"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "La quantité de caféine qui te convient dépend de ton âge et de ton poids."
+            "value": "Quand l'as-tu bu ?"
           }
         },
         "hi": {
           "stringUnit": {
             "state": "translated",
-            "value": "आपके लिए कितना कैफ़ीन ठीक है, यह आपकी उम्र और वज़न पर निर्भर करता है।"
+            "value": "आपने कब पिया?"
           }
         },
         "id": {
           "stringUnit": {
             "state": "translated",
-            "value": "Jumlah kafein yang cocok untukmu tergantung usia dan berat badanmu."
+            "value": "Kapan kamu meminumnya?"
           }
         },
         "ja": {
           "stringUnit": {
             "state": "translated",
-            "value": "あなたに合うカフェイン量は、年齢と体重によって変わります。"
+            "value": "いつ飲みましたか？"
           }
         },
         "pt": {
           "stringUnit": {
             "state": "translated",
-            "value": "A quantidade de cafeína ideal para você depende da sua idade e do seu peso."
+            "value": "Quando você tomou?"
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Сколько кофеина тебе подходит, зависит от возраста и веса."
+            "value": "Во сколько выпито?"
           }
         },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "多少咖啡因适合你，取决于你的年龄和体重。"
+            "value": "什么时候喝的？"
           }
         }
       }
@@ -16807,6 +18201,88 @@
           "stringUnit": {
             "state": "translated",
             "value": "呼吸练习对你很有帮助"
+          }
+        }
+      }
+    },
+    "Normal": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Normal"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Normal"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "طبيعي"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "স্বাভাবিক"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Normal"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Normal"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Normal"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सामान्य"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Normal"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正常"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Normal"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Норма"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正常"
           }
         }
       }
@@ -17545,6 +19021,170 @@
           "stringUnit": {
             "state": "translated",
             "value": "个人资料"
+          }
+        }
+      }
+    },
+    "Profilin": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your profile"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Profilin"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ملفك الشخصي"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "আপনার প্রোফাইল"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Profil"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tu perfil"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ton profil"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "आपकी प्रोफ़ाइल"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Profilmu"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "プロフィール"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seu perfil"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Твой профиль"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "个人资料"
+          }
+        }
+      }
+    },
+    "Profilini tamamla": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Complete your profile"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Profilini tamamla"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "أكمل ملفك الشخصي"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "প্রোফাইল পূরণ করুন"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Profil vervollständigen"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Completa tu perfil"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compléter ton profil"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "अपनी प्रोफ़ाइल पूरी करें"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lengkapi profilmu"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "プロフィールを入力"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Complete seu perfil"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Заполнить профиль"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完善个人资料"
           }
         }
       }
@@ -18779,6 +20419,88 @@
         }
       }
     },
+    "Sana göre dinlenirken beklenen nabız yaklaşık %lld atım/dk. %lld ve üzeri biraz yüksek, %lld ve üzeri yüksek sayılır.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "For you, the expected resting heart rate is about %lld bpm. %lld and above counts as a bit high, %lld and above as high."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sana göre dinlenirken beklenen nabız yaklaşık %lld atım/dk. %lld ve üzeri biraz yüksek, %lld ve üzeri yüksek sayılır."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "بالنسبة لك، النبض المتوقع أثناء الراحة نحو %lld نبضة في الدقيقة. يُعدّ %lld فأكثر مرتفعًا قليلًا، و%lld فأكثر مرتفعًا."
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "আপনার জন্য বিশ্রামের সময় প্রত্যাশিত হার্ট রেট প্রায় প্রতি মিনিটে %lld বিট। %lld বা তার বেশি হলে একটু বেশি, %lld বা তার বেশি হলে বেশি ধরা হয়।"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Für dich liegt der erwartete Ruhepuls bei etwa %lld Schlägen/Min. Ab %lld gilt er als etwas erhöht, ab %lld als hoch."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Para ti, el pulso esperado en reposo es de unos %lld lpm. A partir de %lld se considera algo alto, y a partir de %lld, alto."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pour toi, le pouls attendu au repos est d'environ %lld bpm. À partir de %lld, il est un peu élevé ; à partir de %lld, élevé."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "आपके लिए आराम के समय अपेक्षित धड़कन लगभग %lld बीट प्रति मिनट है। %lld या उससे ज़्यादा थोड़ी ज़्यादा, और %lld या उससे ज़्यादा ज़्यादा मानी जाती है।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Untukmu, detak jantung saat istirahat yang diharapkan sekitar %lld bpm. %lld ke atas dianggap agak tinggi, %lld ke atas dianggap tinggi."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "あなたの安静時の心拍数の目安は約%lld bpmです。%lld以上はやや高め、%lld以上は高めとみなします。"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Para você, a frequência cardíaca esperada em repouso é de cerca de %lld bpm. A partir de %lld é considerada um pouco alta; a partir de %lld, alta."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Для тебя ожидаемый пульс в покое — около %lld уд./мин. От %lld он считается немного повышенным, от %lld — высоким."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "对你来说，静息时的预期心率约为%lld次/分。%lld及以上算略高，%lld及以上算偏高。"
+          }
+        }
+      }
+    },
     "Sana göre günlük kafein sınırı: %@": {
       "localizations": {
         "en": {
@@ -18857,6 +20579,88 @@
           "stringUnit": {
             "state": "translated",
             "value": "你的每日咖啡因上限：%@"
+          }
+        }
+      }
+    },
+    "Sana uygun kafein miktarı ve nabzının senin için normal aralığı yaşına, kilona ve cinsiyetine göre değişir.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "How much caffeine suits you, and what heart rate is normal for you, depend on your age, weight and sex."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sana uygun kafein miktarı ve nabzının senin için normal aralığı yaşına, kilona ve cinsiyetine göre değişir."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعتمد كمية الكافيين المناسبة لك والنبض الطبيعي بالنسبة لك على عمرك ووزنك وجنسك."
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "আপনার জন্য কতটা ক্যাফেইন উপযুক্ত আর আপনার জন্য স্বাভাবিক হার্ট রেট কত, তা বয়স, ওজন ও লিঙ্গের ওপর নির্ভর করে।"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wie viel Koffein zu dir passt und welcher Puls für dich normal ist, hängt von Alter, Gewicht und Geschlecht ab."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cuánta cafeína te conviene y qué pulso es normal para ti dependen de tu edad, peso y sexo."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La quantité de caféine qui te convient et le pouls normal pour toi dépendent de ton âge, de ton poids et de ton sexe."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "आपके लिए कितनी कैफ़ीन ठीक है और आपके लिए सामान्य धड़कन कितनी है, यह आपकी उम्र, वज़न और लिंग पर निर्भर करता है।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Berapa banyak kafein yang cocok untukmu dan detak jantung normal untukmu bergantung pada usia, berat badan, dan jenis kelamin."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "あなたに合うカフェイン量と、あなたにとって正常な心拍数は、年齢・体重・性別によって変わります。"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quanta cafeína combina com você e qual frequência cardíaca é normal para você dependem da idade, do peso e do sexo."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сколько кофеина тебе подходит и какой пульс для тебя нормален, зависит от возраста, веса и пола."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "适合你的咖啡因量以及对你来说正常的心率，取决于你的年龄、体重和性别。"
           }
         }
       }
@@ -19267,88 +21071,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "删除"
-          }
-        }
-      }
-    },
-    "Silmek için kayda basılı tut.": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Touch and hold an entry to delete it."
-          }
-        },
-        "tr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Silmek için kayda basılı tut."
-          }
-        },
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "المس أي إدخال مطولًا لحذفه."
-          }
-        },
-        "bn": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "মুছতে কোনো এন্ট্রিতে চেপে ধরে রাখুন।"
-          }
-        },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Halte einen Eintrag gedrückt, um ihn zu löschen."
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mantén pulsado un registro para eliminarlo."
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Maintiens le doigt sur une entrée pour la supprimer."
-          }
-        },
-        "hi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "डिलीट करने के लिए किसी एंट्री को दबाकर रखें।"
-          }
-        },
-        "id": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sentuh dan tahan catatan untuk menghapusnya."
-          }
-        },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "記録を長押しすると削除できます。"
-          }
-        },
-        "pt": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Toque e segure um registro para apagá-lo."
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Чтобы удалить запись, нажми и удерживай её."
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "按住一条记录即可删除。"
           }
         }
       }
@@ -21153,6 +22875,88 @@
           "stringUnit": {
             "state": "translated",
             "value": "手机语言"
+          }
+        }
+      }
+    },
+    "Toplam %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Total %@"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toplam %@"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "المجموع %@"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "মোট %@"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Insgesamt %@"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Total: %@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Total : %@"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "कुल %@"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Total %@"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "合計 %@"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Total: %@"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Всего %@"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "共%@"
           }
         }
       }
@@ -23863,84 +25667,248 @@
         }
       }
     },
-    "Yaş ve kilo": {
+    "Yaş, kilo ve cinsiyet": {
       "localizations": {
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "Age and weight"
+            "value": "Age, weight and sex"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Yaş ve kilo"
+            "value": "Yaş, kilo ve cinsiyet"
           }
         },
         "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "العمر والوزن"
+            "value": "العمر والوزن والجنس"
           }
         },
         "bn": {
           "stringUnit": {
             "state": "translated",
-            "value": "বয়স ও ওজন"
+            "value": "বয়স, ওজন ও লিঙ্গ"
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Alter und Gewicht"
+            "value": "Alter, Gewicht und Geschlecht"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Edad y peso"
+            "value": "Edad, peso y sexo"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Âge et poids"
+            "value": "Âge, poids et sexe"
           }
         },
         "hi": {
           "stringUnit": {
             "state": "translated",
-            "value": "उम्र और वज़न"
+            "value": "उम्र, वज़न और लिंग"
           }
         },
         "id": {
           "stringUnit": {
             "state": "translated",
-            "value": "Usia dan berat badan"
+            "value": "Usia, berat badan, dan jenis kelamin"
           }
         },
         "ja": {
           "stringUnit": {
             "state": "translated",
-            "value": "年齢と体重"
+            "value": "年齢・体重・性別"
           }
         },
         "pt": {
           "stringUnit": {
             "state": "translated",
-            "value": "Idade e peso"
+            "value": "Idade, peso e sexo"
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Возраст и вес"
+            "value": "Возраст, вес и пол"
           }
         },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "年龄和体重"
+            "value": "年龄、体重和性别"
+          }
+        }
+      }
+    },
+    "Yaşına ve kilona göre, nüfus verilerinden hesaplanır. Cinsiyetini de girersen değerlendirme sana daha uygun olur. Tıbbi bir değerlendirme değildir.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calculated from population data for your age and weight. Adding your sex makes the assessment fit you better. This is not a medical assessment."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yaşına ve kilona göre, nüfus verilerinden hesaplanır. Cinsiyetini de girersen değerlendirme sana daha uygun olur. Tıbbi bir değerlendirme değildir."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "يُحسب من بيانات سكانية حسب عمرك ووزنك. إذا أدخلت جنسك أيضًا سيكون التقييم أنسب لك. هذا ليس تقييمًا طبيًا."
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "আপনার বয়স ও ওজন অনুযায়ী জনসংখ্যার তথ্য থেকে হিসাব করা হয়। লিঙ্গও দিলে মূল্যায়ন আপনার জন্য আরও উপযুক্ত হবে। এটি কোনো চিকিৎসা-মূল্যায়ন নয়।"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Berechnet aus Bevölkerungsdaten für dein Alter und Gewicht. Wenn du auch dein Geschlecht angibst, passt die Einschätzung besser zu dir. Keine medizinische Beurteilung."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se calcula con datos de población según tu edad y peso. Si añades tu sexo, la valoración se ajustará mejor a ti. No es una valoración médica."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calculé à partir de données de population selon ton âge et ton poids. Si tu indiques aussi ton sexe, l'évaluation te correspondra mieux. Ce n'est pas une évaluation médicale."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "आपकी उम्र और वज़न के आधार पर, जनसंख्या के आँकड़ों से गणना की जाती है। लिंग भी दर्ज करें तो आकलन आपके लिए और सटीक होगा। यह चिकित्सीय आकलन नहीं है।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dihitung dari data populasi sesuai usia dan berat badanmu. Jika kamu juga memasukkan jenis kelamin, penilaiannya akan lebih sesuai untukmu. Ini bukan penilaian medis."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "年齢と体重に応じて、人口データから計算しています。性別も入力すると、よりあなたに合った判定になります。医学的な評価ではありません。"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calculado a partir de dados populacionais para sua idade e peso. Se você informar também o sexo, a avaliação fica mais adequada a você. Não é uma avaliação médica."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Рассчитано по данным населения для твоего возраста и веса. Если указать ещё и пол, оценка будет точнее для тебя. Это не медицинская оценка."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "根据你的年龄和体重，依据人群数据计算。如果再填写性别，评估会更贴合你。这不是医学评估。"
+          }
+        }
+      }
+    },
+    "Yaşına, kilona ve cinsiyetine göre, nüfus verilerinden hesaplanır. Tıbbi bir değerlendirme değildir.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calculated from population data for your age, weight and sex. This is not a medical assessment."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yaşına, kilona ve cinsiyetine göre, nüfus verilerinden hesaplanır. Tıbbi bir değerlendirme değildir."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "يُحسب من بيانات سكانية حسب عمرك ووزنك وجنسك. هذا ليس تقييمًا طبيًا."
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "আপনার বয়স, ওজন ও লিঙ্গ অনুযায়ী জনসংখ্যার তথ্য থেকে হিসাব করা হয়। এটি কোনো চিকিৎসা-মূল্যায়ন নয়।"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Berechnet aus Bevölkerungsdaten für dein Alter, Gewicht und Geschlecht. Keine medizinische Beurteilung."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se calcula con datos de población según tu edad, peso y sexo. No es una valoración médica."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calculé à partir de données de population selon ton âge, ton poids et ton sexe. Ce n'est pas une évaluation médicale."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "आपकी उम्र, वज़न और लिंग के आधार पर, जनसंख्या के आँकड़ों से गणना की जाती है। यह चिकित्सीय आकलन नहीं है।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dihitung dari data populasi sesuai usia, berat badan, dan jenis kelaminmu. Ini bukan penilaian medis."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "年齢・体重・性別に応じて、人口データから計算しています。医学的な評価ではありません。"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calculado a partir de dados populacionais para sua idade, peso e sexo. Não é uma avaliação médica."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Рассчитано по данным населения для твоего возраста, веса и пола. Это не медицинская оценка."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "根据你的年龄、体重和性别，依据人群数据计算。这不是医学评估。"
           }
         }
       }
@@ -24437,6 +26405,88 @@
         }
       }
     },
+    "Yine de nefes egzersizi yap": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Do the breathing exercise anyway"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yine de nefes egzersizi yap"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "أدِّ تمرين التنفس على أي حال"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "তবুও শ্বাসের ব্যায়াম করুন"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trotzdem Atemübung machen"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hacer igualmente el ejercicio de respiración"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Faire quand même l'exercice de respiration"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "फिर भी साँस का अभ्यास करें"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tetap lakukan latihan napas"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "それでも呼吸エクササイズをする"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fazer o exercício de respiração mesmo assim"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Всё равно сделать дыхательное упражнение"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仍然做呼吸练习"
+          }
+        }
+      }
+    },
     "Yoğun kafein günlerinin ertesi sabahı nabzın daha yüksek": {
       "localizations": {
         "en": {
@@ -24597,6 +26647,88 @@
           "stringUnit": {
             "state": "translated",
             "value": "高"
+          }
+        }
+      }
+    },
+    "atım/dk": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "bpm"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "atım/dk"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "نبضة/دقيقة"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিট/মিনিট"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schläge/Min."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "lpm"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "bpm"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "बीट/मिनट"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "bpm"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "bpm"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "bpm"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "уд./мин"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "次/分"
           }
         }
       }
@@ -25991,6 +28123,88 @@
           "stringUnit": {
             "state": "translated",
             "value": "最近一次紧张评分%lld/5"
+          }
+        }
+      }
+    },
+    "sonra": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "after"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sonra"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "بعد"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "পরে"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nachher"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "después"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "après"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "बाद में"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sesudah"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "後"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "depois"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "после"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "之后"
           }
         }
       }
@@ -28127,6 +30341,88 @@
         }
       }
     },
+    "önce": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "before"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "önce"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "قبل"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "আগে"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "vorher"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "antes"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "avant"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "पहले"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sebelum"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "前"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "antes"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "до"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "之前"
+          }
+        }
+      }
+    },
     "İdare eder": {
       "localizations": {
         "en": {
@@ -29025,6 +31321,88 @@
           "stringUnit": {
             "state": "translated",
             "value": "现在"
+          }
+        }
+      }
+    },
+    "Şimdi değil": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not now"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Şimdi değil"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ليس الآن"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "এখন নয়"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jetzt nicht"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ahora no"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pas maintenant"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "अभी नहीं"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nanti saja"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "今はしない"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Agora não"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не сейчас"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂不"
           }
         }
       }

@@ -13,8 +13,8 @@ Amaç kafeini kötülemek değil: ne zaman, ne kadar içtiğini görüp sana iyi
 | Ne zaman | Ne yapılır |
 |---|---|
 | Sabah | 60 sn kamerayla dinlenme nabzı + uyku kaydı (yatış, uyanış, nasıl uyudun) |
-| Gün içinde | İçilen kahve, çay, enerji içeceği tek dokunuşla kaydedilir |
-| Gergin anlarda | **Gerginim**: 30 sn ölçüm → 2 dk yavaş nefes → 30 sn ölçüm |
+| Gün içinde | İçilen kahve, çay, enerji içeceği seçilir; adet (varsayılan 1) ve saat (varsayılan "Şimdi", geç kaydedilenler için seçilebilir) sorulur. Kayıtların adedi − ve + ile değişir, sola kaydırınca silinir |
+| Gergin anlarda | **Gerginim**: 30 sn ölçüm → sonuç (yaşa, kiloya ve cinsiyete göre normal / biraz yüksek / yüksek) → yüksekse 2 dk yavaş nefes → 30 sn ölçüm |
 | Akşam | Günün gerginliğine 1–5 puan |
 | Haftada bir | **Haftam**: özet kartı ve kişisel çıkarımlar |
 
@@ -24,7 +24,8 @@ Amaç kafeini kötülemek değil: ne zaman, ne kadar içtiğini görüp sana iyi
 - **Grafikte sınır saati:** Son kahve saati (ya da kafein bugün için bittiyse seviyenin uyku eşiğinin altına ineceği saat) grafikte kesikli çizgi ve saat etiketiyle gösterilir.
 - **Su:** Kiloya göre günlük su (kg × 30 ml) + bugünkü kafein kadar ml. Su kafeini daha hızlı atmaz; ek su yalnızca kafeinin hafif idrar söktürücü etkisini dengeler ve uygulamada bu açıkça yazar.
 - **Son kahve saati:** Yatarken vücutta 30 mg'den az kafein kalacak şekilde, genelde içtiğin büyüklükte bir içeceği en geç ne zaman içebileceğin.
-- **Yaş ve kiloya göre günlük sınır (EFSA):** Yetişkinlerde kilo başına ~5,7 mg, en fazla 400 mg; 18 yaş altında kilo başına 3 mg; hamilelik/emzirmede en fazla 200 mg. Yaş ve kilo karşılama ekranında alınır, Ayarlar → Profil'den değişir. Sınırın %80'ine gelince ya da genelde içilen bir içecek sınırı aşacaksa "yaklaşıyorsun", aşınca kırmızı uyarı; ikisi de yalnızca Bugün ekranında grafiğin altında.
+- **Yaş ve kiloya göre günlük sınır (EFSA):** Yetişkinlerde kilo başına ~5,7 mg, en fazla 400 mg; 18 yaş altında kilo başına 3 mg; hamilelik/emzirmede en fazla 200 mg. Yaş, kilo ve cinsiyet karşılama ekranında alınır, Ayarlar → Profil'den değişir; cinsiyet kafein sınırını değiştirmez, yalnızca nabız aralığında kullanılır. Sınırın %80'ine gelince ya da genelde içilen bir içecek sınırı aşacaksa "yaklaşıyorsun", aşınca kırmızı uyarı; ikisi de yalnızca Bugün ekranında grafiğin altında.
+- **Kişiye göre nabız aralığı:** Gerginim ölçümü yaşa, kiloya ve cinsiyete göre değerlendirilir. Beklenen dinlenme nabzı kadınlarda 74, erkeklerde 70, belirtilmemişse 72 atım/dk; 18 yaş altı +5, 65 yaş üstü −2; cinsiyete göre tipik kilonun her 10 kg üstü +1 (en fazla +5). Beklenenin 15 atım üstü "biraz yüksek", 25 atım üstü (en geç 100) "yüksek". Nüfus verilerine dayalı bir tahmindir, tıbbi değerlendirme değildir (`CaffeineKit/RestingPulse.swift`).
 - **İçecek listesi:** 37 içecek, gruplu ve aranabilir: Kahveler (Türk kahvesi, filtre, espresso çeşitleri, kapsül, cold brew, French press, moka pot, dibek…), Çaylar, Matcha ve mate, Enerji ve gazlı içecekler, Diğer. Özel içecek de eklenebilir.
 - **Uyku süresi:** Yatış ve uyanış saatinden hesaplanır; haftalık ortalama ve geç kafeinin uykuyu ne kadar kısalttığı gösterilir.
 - **Dil:** 13 dil: English, 简体中文, हिन्दी, Español, العربية, Français, বাংলা, Português, Русский, Bahasa Indonesia, Deutsch, 日本語, Türkçe (İngilizce önce, sonra dünyada konuşan sayısına göre). Uygulama telefonun dilinde açılır; desteklenmeyen dillerde İngilizce. Ayarlar → Dil'den değiştirilir, anında uygulanır. Arapçada düzen sağdan sola döner.

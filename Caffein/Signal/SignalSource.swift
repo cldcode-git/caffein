@@ -41,7 +41,11 @@ enum SignalSourceFactory {
     @MainActor
     static func make() -> SignalSource {
         #if targetEnvironment(simulator)
-        return SyntheticSignalSource(scenario: .resting)
+        // `-simulatorBPM 95` as a launch argument tries other pulse rates.
+        let bpm = UserDefaults.standard.double(forKey: "simulatorBPM")
+        return SyntheticSignalSource(scenario: bpm > 0
+            ? SyntheticScenario(id: "custom", name: "\(Int(bpm))", bpm: bpm)
+            : .resting)
         #else
         return CameraSignalSource(torchLevel: torchLevel)
         #endif

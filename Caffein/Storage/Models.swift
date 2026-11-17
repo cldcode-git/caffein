@@ -6,16 +6,25 @@ final class CaffeineIntake {
     var date: Date
     var drinkID: String
     var name: String
+    /// Caffeine in one serving.
     var caffeineMg: Double
     var symbol: String
+    /// How many servings were drunk at `date`. Records made before this
+    /// field existed get 1.
+    var servings: Int = 1
 
-    init(date: Date = Date(), drinkID: String, name: String, caffeineMg: Double, symbol: String) {
+    init(date: Date = Date(), drinkID: String, name: String, caffeineMg: Double, symbol: String,
+         servings: Int = 1) {
         self.date = date
         self.drinkID = drinkID
         self.name = name
         self.caffeineMg = caffeineMg
         self.symbol = symbol
+        self.servings = servings
     }
+
+    /// Caffeine in all servings together.
+    var totalMg: Double { caffeineMg * Double(max(1, servings)) }
 }
 
 enum PulseKind: String, Codable {

@@ -8,6 +8,7 @@ struct SettingsView: View {
     @AppStorage(SettingsKey.profileAge) private var profileAge = 0
     @AppStorage(SettingsKey.profileWeight) private var profileWeight = 0.0
     @AppStorage(SettingsKey.pregnant) private var pregnant = false
+    @AppStorage(SettingsKey.sex) private var sexRaw = BiologicalSex.unspecified.rawValue
     @AppStorage(SettingsKey.sensitivity) private var sensitivityRaw = CaffeineSensitivity.normal.rawValue
     @AppStorage(SettingsKey.morningReminder) private var morningReminder = false
     @AppStorage(SettingsKey.morningReminderMinutes) private var morningMinutes = 7 * 60 + 30
@@ -45,9 +46,14 @@ struct SettingsView: View {
 
             Section {
                 NavigationLink { ProfileView() } label: {
-                    LabeledContent("Yaş ve kilo") {
+                    LabeledContent("Yaş, kilo ve cinsiyet") {
                         if let profile {
-                            Text("\(profile.age) · \(Int(profile.weightKg)) kg")
+                            HStack(spacing: 0) {
+                                Text("\(profile.age) · \(Int(profile.weightKg)) kg")
+                                if let sex = BiologicalSex(rawValue: sexRaw), sex != .unspecified {
+                                    Text(verbatim: " · " + SexText.title(sex))
+                                }
+                            }
                         } else {
                             Text("Girilmedi").foregroundStyle(Theme.alert)
                         }

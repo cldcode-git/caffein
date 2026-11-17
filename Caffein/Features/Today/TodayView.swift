@@ -20,6 +20,8 @@ struct TodayView: View {
     @State private var showMorning = false
     @State private var showTense = false
     @State private var showDrinkPicker = false
+    /// A quick-add drink waiting for its count and time.
+    @State private var choice: DrinkChoice?
     @State private var showGuide = false
     @State private var showProfile = false
     @State private var undo: UndoToast?
@@ -53,7 +55,8 @@ struct TodayView: View {
                                                       defaults: DrinkText.defaultQuickAdd,
                                                       language: AppLanguage.current.resolvedCode),
                         todayIntakes: Wellness.todayIntakes(intakes, now: now),
-                        add: { add($0) },
+                        add: { choice = DrinkChoice(drink: $0, customName: nil) },
+                        changeServings: changeServings,
                         delete: delete,
                         more: { showDrinkPicker = true }
                     )
@@ -81,9 +84,15 @@ struct TodayView: View {
         .overlay(alignment: .bottom) {
             if let undo {
                 UndoToastView(toast: undo) {
-                    if let intake = intakes.first(where: { $0.persistentModelID == undo.id }) {
-                        context.delete(intake)
+                    switch undo.action {
+                    case .removeAdded(let id):
+                        if let intake = intakes.first(where: { $0.persistentModelID == id }) {
+                            context.delete(intake)
+                        }
+                    case .restore(let copy):
+                        context.insert(copy.makeIntake())
                     }
+                    try? context.save()
                     self.undo = nil
                 }
                 .padding(.bottom, 12)
@@ -93,7 +102,25 @@ struct TodayView: View {
         .animation(.snappy, value: undo)
         .sheet(isPresented: $showMorning) { MorningCheckInView() }
         .sheet(isPresented: $showTense) { TenseFlowView() }
-        .sheet(isPresented: $showDrinkPicker) { DrinkPickerView(add: add) }
+        .sheet(isPresented: $showDrinkPicker) {
+            DrinkPickerView { drink, name, servings, date in
+                add(drink, name: name, servings: servings, date: date)
+            }
+        }
+        .sheet(item: $choice) { choice in
+            NavigationStack {
+                AddDrinkForm(choice: choice) { servings, date in
+                    add(choice.drink, name: choice.customName, servings: servings, date: date)
+                    self.choice = nil
+                }
+                .toolbar {
+                    ToolbarItem(placement: .cancellationAction) {
+                        Button("Kapat") { self.choice = nil }
+                    }
+                }
+            }
+            .presentationDetents([.medium, .large])
+        }
         .sheet(isPresented: $showProfile) {
             NavigationStack { ProfileView() }
         }
@@ -104,22 +131,43 @@ struct TodayView: View {
 
     // MARK: - Actions
 
-    private func add(_ drink: Drink, name: String? = nil) {
+    private func add(_ drink: Drink, name: String? = nil, servings: Int = 1, date: Date = Date()) {
         let displayName = name ?? DrinkText.name(drink.id) ?? drink.id
-        let intake = CaffeineIntake(drinkID: drink.id, name: displayName, caffeineMg: drink.caffeineMg, symbol: drink.symbol)
+        let intake = CaffeineIntake(date: date, drinkID: drink.id, name: displayName, caffeineMg: drink.caffeineMg,
+                                    symbol: drink.symbol, servings: servings)
         context.insert(intake)
         try? context.save()
         UIImpactFeedbackGenerator(style: .light).impactOccurred()
-        let toast = UndoToast(id: intake.persistentModelID, text: L("\(displayName) eklendi · \(drink.caffeineMg.mgText)"))
+        let label = servings > 1 ? "\(servings) × \(displayName)" : displayName
+        show(UndoToast(text: L("\(label) eklendi · \(intake.totalMg.mgText)"),
+                       action: .removeAdded(intake.persistentModelID)))
+    }
+
+    /// The − and + on a logged drink. Going below one removes it (with undo).
+    private func changeServings(_ intake: CaffeineIntake, by delta: Int) {
+        let newValue = intake.servings + delta
+        if newValue < 1 {
+            delete(intake)
+        } else {
+            intake.servings = min(newValue, 10)
+            try? context.save()
+        }
+    }
+
+    private func delete(_ intake: CaffeineIntake) {
+        let toast = UndoToast(text: L("\(DrinkText.displayName(intake)) silindi"),
+                              action: .restore(IntakeCopy(intake)))
+        context.delete(intake)
+        try? context.save()
+        show(toast)
+    }
+
+    private func show(_ toast: UndoToast) {
         undo = toast
         Task {
             try? await Task.sleep(for: .seconds(4))
             if undo == toast { undo = nil }
         }
-    }
-
-    private func delete(_ intake: CaffeineIntake) {
-        context.delete(intake)
     }
 
     private func rateTension(_ score: Int, now: Date) {
@@ -149,8 +197,41 @@ struct TodayView: View {
 }
 
 struct UndoToast: Equatable {
-    let id: PersistentIdentifier
+    enum Action: Equatable {
+        /// Undo an add: delete the new intake.
+        case removeAdded(PersistentIdentifier)
+        /// Undo a delete: insert the intake again.
+        case restore(IntakeCopy)
+    }
+
+    /// Two toasts with the same text are still different toasts.
+    let token = UUID()
     let text: String
+    let action: Action
+}
+
+/// The fields of a deleted intake, kept so the delete can be undone.
+struct IntakeCopy: Equatable {
+    let date: Date
+    let drinkID: String
+    let name: String
+    let caffeineMg: Double
+    let symbol: String
+    let servings: Int
+
+    init(_ intake: CaffeineIntake) {
+        date = intake.date
+        drinkID = intake.drinkID
+        name = intake.name
+        caffeineMg = intake.caffeineMg
+        symbol = intake.symbol
+        servings = intake.servings
+    }
+
+    func makeIntake() -> CaffeineIntake {
+        CaffeineIntake(date: date, drinkID: drinkID, name: name, caffeineMg: caffeineMg, symbol: symbol,
+                       servings: servings)
+    }
 }
 
 private struct UndoToastView: View {
